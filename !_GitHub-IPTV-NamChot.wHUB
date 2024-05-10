@@ -1,21 +1,20 @@
 {
-"name": "@GitHub-oud-IPTV@",
-"author": "Github@oud-IPTV",
-#== "!_oud@IPTV" ==#
+"name": "GitHub-IPTV-NamChot",
+"author": "GitHub-IPTV-NamChot.wHUB",
+#== "IPTV-NamChot\!-GitHub-!" ==#
 "image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
-"url": "https://raw.githubusercontent.com/oud-IPTV/Public_oud_IPTV/main/!_oud%40IPTV/!_GitHub-oud-IPTV.wHUB",
 "parental" : "true",
 "groups":
 [{
 
-"name": "@บ้านเรืองเดช@",
-"image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76&export=download",
-"url": "https://raw.githubusercontent.com/oud-IPTV/Public_oud_IPTV/main/!_oud%40IPTV/!_%40oud%23Mod/!_Baan_RD.wHUB",
+"name": "AV-Subthai",
+"image":"https://lh3.googleusercontent.com/-Xy3JbqRLA6g/ZOTpGaGiaAI/AAAAAAAAAI4/9j63PXk6OAop1iX2nRswG-cqfff5T1WRgCNcBGAsYHQ/h120/images.png",
+"url": "https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/all.w3u",
 "import": false
 },{
-"name": "@60ยังเสียว@",
-"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x&export=download",
-"url": "https://raw.githubusercontent.com/oud-IPTV/Public_oud_IPTV/main/!_oud%40IPTV/!_%40oud%23Mod/!_60ยังเสียว.wHUB",
+"name": "ห้องแห่งความลับ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTma8CDapOd5Kqi_P5TAbCL5W2kmEYAzG6w&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Oung-Oung/-/H/Avple",
 "import": false
 }]
 
