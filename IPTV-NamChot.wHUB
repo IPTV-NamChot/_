@@ -1,0 +1,82 @@
+{
+"name": "@IPTV-NamChot@",
+"author": "PTV-NamChot.wHUB",
+#== "IPTV-NamChot\!-GitHub-!" ==#
+"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI&export=download",
+"url": "https://freenote.biz/raw/JldgTS9QXY",
+"parental" : "true",
+"groups":
+[{
+
+"name": "gDRIVE-oud2ohm",
+"image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Google-Drive-800x420.jpg",
+"groups":
+	[{
+	"name": "@Script_oud@",
+	"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI",
+	"url": "https://drive.google.com/uc?id=1Sz02DFiEUuykea51XwUKdoqH_Z4bJgaZ",
+	"import": false
+	},{
+	"name": "@60ยังเสียว@",
+	"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x",
+	"url": "https://drive.google.com/uc?id=1pUAsD2xXWLF67u9J3WgDgVxvPIHLNOrt",
+	"import": false
+	},{
+	"name": "@บ้านเรืองเดช@",
+	"image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76",
+	"url": "https://drive.google.com/uc?id=1TCQBko837TnlNioLz6uIcdpWY3iYG8-J",
+	"import": false
+	}]
+},{
+"name": "dBOX-oud2ohm",
+"image": "https://www.blognone.com/sites/default/files/externals/790d964ed716febf972fc34a586dc9ea.jpg",
+"groups":
+	[{
+	"name": "@Script_oud@",
+	"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI",
+	"url": "https://www.dropbox.com/s/b08nl04dt9h4d81/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "@60ยังเสียว@",
+	"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x",
+	"url": "https://www.dropbox.com/s/a31mvoyhn33qyc4/wTU?dl=1",
+	"import": false
+	},{
+	"name": "@บ้านเรืองเดช@",
+	"image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76",
+	"url": "https://www.dropbox.com/scl/fi/5ft7rd9bv3y5ug0tceyfm/wOUD?rlkey=f31aulvtp08wfrh0naqb5soeo&dl=1",
+	"import": false
+	}]
+},{
+"name": "freenote.biz-oud2ohm",
+"image": "https://brund.dk/cdn/shop/collections/freenote.jpg",
+"groups":
+	[{
+	"name": "@Script_oud@",
+	"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI",
+	"url": "https://freenote.biz/raw/SmDXssuNRa",
+	"import": false
+	},{
+	"name": "@60ยังเสียว@",
+	"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x",
+	"url": "https://freenote.biz/raw/lsB3JQNvwz",
+	"import": false
+	},{
+	"name": "@บ้านเรืองเดช@",
+	"image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76",
+	"url": "https://freenote.biz/raw/lLQX4jpBSw",
+	"import": false
+	}]
+},{
+"name": "Github@IPTV-NamChot",
+"image": "https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!_GitHub-IPTV-NamChot.wHUB",
+"import": false
+},{
+"name": "drv.tw@GitHub-oud-IPTV",
+"image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lXxinlBryptL6_NMiRp6PQ.jpeg",
+"url": "https://gdrive-oud2ohm-oud-iptv.on.drv.tw/drv.tw/!_GitHub-oud-IPTV.wHUB.html",
+"import": false
+}]
+
+}
