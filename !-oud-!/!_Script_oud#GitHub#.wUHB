@@ -1,0 +1,52 @@
+{
+"name": "@oud_Script@",
+"author": "Github@IPTV-NamChot",
+#== "!_oud@IPTV" ==#
+"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI",
+"url": "https://drive.google.com/uc?id=1Sz02DFiEUuykea51XwUKdoqH_Z4bJgaZ",
+"parental" : "true",
+"groups":
+[{
+
+"name": "IPTV&Movie",
+"image": "https://static.gameloop.com/img/10f21c433e27a50f433b5dd633bfbc72.jpg",
+"url": "https://drive.google.com/uc?id=1UTwn1Ocn_QNvyx37Hns2KlHdY2BjyHeP",
+"import": false
+},{
+"name": "RadioOnline",
+"image": "https://c7.alamy.com/450v/j6rbcn/online-radio-concept-3d-rendering-j6rbcn.jpg",
+"url": "https://drive.google.com/uc?id=1KIGCMYS9vBBNTgVeuT9KLVuuSC4AAZWD",
+"import": false
+},{
+"name": "Relax18+",
+"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+"url": "https://drive.google.com/uc?id=1lI7ya-VnKuCGLi2dQb_GFAg-mrcPz2OD",
+"import": false
+},{
+"name": "=YouTube=",
+"image": "https://www.youtube.com/img/desktop/yt_1200.png",
+"url": "https://drive.google.com/uc?id=1xRSrfqh_XF8Pp95ffrqgRc5B4xnU_PhT",
+"import": false
+},{
+name: "ForexStrategies",
+image: "https://yt3.ggpht.com/ytc/AAUvwnj-UxicTAusA4fx7-HMllZQf62PBBR21JLcmbSa",
+"url": "https://drive.google.com/uc?id=1_Nm8yaj2BZlt3uVRLDpvX183xmcmBsAH",
+"import": false
+},{
+"name": "ธรรมะMedia",
+"image": "https://i.ytimg.com/vi/deSAUsVzP4o/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6AqIYTFHNHsqhK2pDnt_6VnjrMg",
+"url": "https://drive.google.com/uc?id=1-CQBEjFR1Itj2fq2GbSmzz9YFigPFkc7",
+"import": false
+},{
+"name": "SeeNow@oud",
+"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Seenow_ad_2012.png",
+"url": "https://drive.google.com/uc?id=1BG_jDA8vcJlfPdofdmQ4FEH-H2i2fDOA",
+"import": false
+},{
+"name": "Test@oud",
+"image": "https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg",
+"url": "https://drive.google.com/uc?id=1JTpmTH2iJB2bMxVZ9e1Bk6eugm8MHOqt",
+"import": false
+}]
+
+}
