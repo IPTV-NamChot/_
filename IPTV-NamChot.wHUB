@@ -70,8 +70,23 @@
 },{
 "name": "Github@IPTV-NamChot",
 "image": "https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!_GitHub-IPTV-NamChot.wHUB",
-"import": false
+"groups":
+	[{
+	"name": "@Script_oud@",
+	"image": "https://drive.google.com/uc?id=1XEuWnGh8C50t9ZocZpLPQXBECDXh4jSI",
+	"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud-!/!_Script_oud%23GitHub%23.wUHB",
+	"import": false
+	},{
+	"name": "@60ยังเสียว@",
+	"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x",
+	"url": "https://freenote.biz/raw/lsB3JQNvwz",
+	"import": false
+	},{
+	"name": "@บ้านเรืองเดช@",
+	"image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76",
+	"url": "https://freenote.biz/raw/lLQX4jpBSw",
+	"import": false
+	}]
 },{
 "name": "drv.tw@GitHub-oud-IPTV",
 "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lXxinlBryptL6_NMiRp6PQ.jpeg",
