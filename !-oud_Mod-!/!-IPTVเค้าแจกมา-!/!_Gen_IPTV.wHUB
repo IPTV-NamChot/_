@@ -7,10 +7,10 @@
 "groups":
 [{
 
-"name" : "WIN TV",
-"image" : "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url" : "https://pastebin.com/YpDkAZPg",
-"import": "false"
+"name": "TV-Mix",
+"image": "https://raw.githubusercontent.com/tongtjc/Pic/main/tv.png",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/tv",
+"import": false
 },{
 "name": "DooKeela-รายวัน",
 "image": "https://dookeela.live/images/logo-bar.png",
