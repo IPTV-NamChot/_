@@ -6,6 +6,11 @@
 "groups":
 [{
 
+"name": "DOO DEE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0_wLazst1AKj1hqOxZRw1fzUFD09iTbELA&s",
+"url": "https://pastebin.com/raw/aa1V1hMp",
+"import": false
+},{
 "name": "มันฝรั่งทีวี#Gdrive#",
 "image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
 "url":"https://drive.google.com/uc?id=12NAakgoN9unL8Y4QghGQFX99YR2z5Uvt&export=download",
