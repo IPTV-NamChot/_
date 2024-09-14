@@ -9,33 +9,38 @@
 "name": "🐲Digital TV ",
 "image": "https://i.postimg.cc/wjmDhZM8/DTV.jpg",
 "url": "https://drive.google.com/uc?id=1M_C_IIeA0JtPSAOoWlnAM4kKgxgqPxde",
-"import": false
+"import": "false"
 },{
 "name": "🐲Global IPTV",
 "image": "https://i.postimg.cc/SKm3wfL8/GIPTV.jpg",
 "url": "http://tiny.cc/nnblzz",
-"import": false
+"import": "false"
+},{
+"name": "🐲Ball2024", 
+"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=2000",
+"url"  :    "https://drive.google.com/uc?id=1-JNsX-QPrxb5VZLSTNIKGk_WHRX14rg6",
+"import": "false"
 },{
 "name": "DooKeela-รายวัน",
 "image": "https://dookeela.live/images/logo-bar.png",
 "url": "http://tiny.cc/euuazz",
-"import": false
+"import": "false"
 },{
 "name": "#หนัง&ซีรี่ย์(Streaming)#",
 "image": "https://ventsmagazine.com/wp-content/uploads/2021/07/Movie-Streaming.png",
 "url": "https://drive.google.com/uc?id=1unQjb5S6iRgFc926zmVmwHVXaDpAumQR",
-"import": false
+"import": "false"
 #== ORG: "http://tiny.cc/g5tdzz" ==#
 },{
 "name": "#การ์ตูน&Anime#",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/การ์ตูน_Anime/!_Gen_Anime.wHUB",
-"import": false
+"import": "false"
 },{
 "name": "#เก็บตก(Upเรื่อยๆ)#",
 "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/09/remote-streaming-netflix-large.jpg",
 "url": "https://drive.google.com/uc?id=1QJJ6Cpdp5G0re0HPt2-uWJPKOrhjpY6W",
-"import": false
+"import": "false"
 },{
 "name": "Movie & Series",
 "image": "https://i.postimg.cc/vHp2pNnN/Movie6.jpg",
@@ -123,7 +128,7 @@
 "name": "###",
 "image": "https://drive.google.com/uc?id=19sbN3taSIOQKB2idaOaD9SDdhnf1T_K1",
 "url": "https://",
-"import": false
+"import": "false"
 }]
 
 }
