@@ -38,13 +38,8 @@
 "import": false
 },{
 "name": "Movie & Series",
-"image": "https://sv1.picz.in.th/images/2023/03/01/ef5LdJ.gif",
+"image": "https://i.postimg.cc/vHp2pNnN/Movie6.jpg",
 "url": "https://drive.google.com/uc?id=1deDof6B1UsrPNeRda21magjKQelOzs_Z",
-"import": "false"
-},{
-"name": " SackTV",
-"image": "https://media2.giphy.com/media/kEuaRF6tCxFjJbQ2eB/giphy.webp?cid=6c09b952d8e9929f79e900d0a187eafeccebd7a6aab9678f&rid=giphy.webp&ct=g",
-"url": "https://pastebin.com/raw/Acsep91v",
 "import": "false"
 },{
 "name": "Nung2hdd",
@@ -79,11 +74,6 @@
 "url": "https://drive.google.com/uc?id=12ZNtaY_zUiIEKO3_vhXmilwlFfhSuqQD",
 "import": "false"
 },{
-"name": "Doofree",
-"image": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2015/05/29/ua9wtrz9wiq4w08wflk3.gif?quality=80&resize=832,468",
-"url": "https://pastebin.com/raw/8UFy7PsN", 
-"import": "false"
-},{
 "name":"หนังใหม่",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLF2k_uphIT5k-dgHzoXMGXAcoFCtJc37_cQ&usqp=CAU",
 "url": "https://pastebin.com/raw/ySn6ab4E",
@@ -92,11 +82,6 @@
 "name": "   📺TV+หนัง📺  ",
 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "url": "https://bit.ly/3v8YuR5",
-"import": "false"
-},{
-"name": "AIS TV",
-"image": "https://sv1.picz.in.th/images/2023/02/04/Lgx3U0.png",
-"url": "https://rebrand.ly/aisplaytvlive",
 "import": "false"
 },{
 "name":	"Sports ",
@@ -119,19 +104,9 @@
 "url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
 "import": "false"
 },{
-"name": "Spider1978(m3u)",
-"image": "https://sv1.picz.in.th/images/2023/02/08/LqAIX1.jpg",
-"url": "https://bit.ly/Spider1978",
-"import": "false"
-},{
 "name": "DOO FREE",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAX8PYWYBMqEXEXxxKCycClbFfs7d74I3ew&usqp=CAU",
 "url": "https://5h44.short.gy/Dragon",
-"import": "false"
-},{
-"name" : "DooBALL2you",
-"image" : "https://www.dooball2you.com/wp-content/themes/dooball2you/images/logo-dooball.png",
-"url" : "http://tiny.cc/7iusuz",
 "import": "false"
 },{
 "name" : "YouDOOBALL/dootv",
