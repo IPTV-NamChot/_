@@ -9,7 +9,7 @@
 "groups": 
 [{
 
-			"name":"ขอมา#",
+			"name":"ขอมา",
 			"image":"https://f.ptcdn.info/120/018/000/1398244037-1398094626-o.gif",
 			"url":"https://drive.google.com/uc?export=download&id=10Iq7rcSByGdJKM8eaN4xZaTHvX1EGI6k",
 		"import":"false"
@@ -38,6 +38,359 @@
 			"url":"https://drive.google.com/uc?id=1-QEoeX5MsS1XnZ_N9jFmVvM8Ecp6TSfj",
 		"import":"false"
 		},
+		
+	{
+		 "name": "Tongha-movie",
+		 "author": "เจียว เจียว",
+		 "info": "ความสำเร็จเกิดจากความพยายามเล็กน้อย ซ้ำแล้วซ้ำเล่าในทุกๆ วัน",
+		 "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+		 "groups": [
+		{
+		   "name": "หนังมาใหม่", 
+		   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+		   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_new-movie.w3u",
+		   "import": "false"
+		},
+		{
+			"name": "แยกตามปี",
+			"author": "เจียว เจียว",
+			"info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+			"image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			"groups": [
+			{
+			   "name": "2024", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_2024.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "2023", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_2023.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "2022-1966", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_2022-1966.w3u",
+			   "import": "false"
+			}
+		  ]
+		},
+		{
+			"name": "แยกตามประเทศ",
+			"author": "เจียว เจียว",
+			"info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+			"image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			"groups": [
+			{
+			   "name": "ไทย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_3-thai-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ฝรั่ง", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_6-eng-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "เกาหลี", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_2-korea-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "จีน", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_7-chinese-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ญี่ปุ่น", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_8-japan-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "หนังฮ่องกง-ไต้หวัน", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_10-HongKong-Taiwan-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "หนังเอเชีย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_26-หนังเอเชีย.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "หนังเอเชีย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_29-หนังเอเชีย.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "อินเดีย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_4-india-movie.w3u",
+			   "import": "false"
+			}
+		  ]
+		},
+		{
+			"name": "แยกตามหมวดหมู่",
+			"author": "เจียว เจียว",
+			"info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+			"image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			"groups": [
+			{
+			   "name": "หนังชนโรง", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_1-new-movie.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ซีรี่ย์", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_13-Series.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ซีรีย์ วาย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_25-series_Y.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "หนังการ์ตูน-อนิเมชั่น", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_11-Animation.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Netflix", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_5-netflix.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Disney plus+", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_15-disney_plus.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Amazon prime", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_18-amazon_prime.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Viu", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_19-viu.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Apple+", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_20-apple+.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "iQiY", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_21-iQiY.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "True id", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_22-true_id.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "HBO GO", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_23-HBO_GO.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Big Cinima", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_24-Big_Cinima.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Monomax", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_25-Monomax.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "Paramount+", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_27-paramount+.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "WeTV", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_28-WeTV.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "จักรวาล Conjuring", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_19-จักรวาล_Conjuring.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "จักรวาล DC", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_23-จักรวาล_DC.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "จักรวาล fast and furious เร็วแรงทะลุนรก", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_20-จักรวาล_fast_and_furious.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "จักรวาล Marvel", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_18-จักรวาล_Marvel.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "หนัง GTH/GDH", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_GDH.w3u",
+			   "import": "false"
+			}
+		  ]
+		},
+		{
+			"name": "แยกตามประเภท",
+			"author": "เจียว เจียว",
+			"info": "โอกาสเกิดขึ้นเองไม่ได้ แต่คุณต่างหากที่สร้างมันขึ้นมา",
+			"image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			"groups": [
+			{
+			   "name": "คอนเสิร์ต", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_24-_Concerts.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "แอคชั่น", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_1-action.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ผจญภัย", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_2-adventure.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "อนิเมชั่น", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_3-animation.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ชีวประวัติ", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_4-biography.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "การ์ตูน", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_5-cartoon.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ตลก", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_6-comedy.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "อาชญกรรม", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_7-crime.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "สารคดี", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_8-documentary.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ดราม่า", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_9-drama.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "อีโรติก", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_9-erotic.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ครอบครัว", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_10-family.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "แฟนตาซี", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_11-fantasy.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ผี สยองขวัญ", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_12-horror.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "โรแมนติก", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_13-romance.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ไซไฟ", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_14-sci-fi.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "กีฬา", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_15-sports.w3u",
+			   "import": "false"
+			},
+			{
+			   "name": "ระทึกขวัญ", 
+			   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oungoungnew/refs/heads/main/tongha-movie_16-Thriller.w3u",
+			   "import": "false"
+			}
+		  ]
+		}
+	  ]
+	},
 		{
         "name": "22-hd",
         "image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
