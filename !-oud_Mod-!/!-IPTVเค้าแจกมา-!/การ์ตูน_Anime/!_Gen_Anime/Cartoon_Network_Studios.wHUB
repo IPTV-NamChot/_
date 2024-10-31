@@ -3,21 +3,18 @@
 "author": "Cartoon_Network_Studios.wHUB@IPTV-NamChot",
 #== "\!-oud_Mod-!\!-IPTVเค้าแจกมา-!\การ์ตูน_Anime\!_Gen_Anime" ==#
 "image": "https://toppng.com/uploads/preview/free-png-banned-stamp-png-images-transparent-banned-png-transparent-11563802224vxu9watip4.png",
-
-#== ORG: "https://github.com/provides1/playlist" ==#
-#== ORG: "https://drive.google.com/uc?id=1QCnN9pecF00b9WAb6zCidDIg-FxlPNZl" ==#
 "groups": 
 [{
 
-				"name":"ANIME-99 Home#",
+				"name":"ANIME-99 Home",
 				"image":"https://thlink.me/ax0qd0",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-99__.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-99__.w3u",
 					"import":"true"
 			},
 		{
 		"name": "Anime-Suba อนิเมะ-ซูบา",
 		"image": "https://www.anime-suba.com/imges/Logo.png",
-		"url": "https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-suba_.w3u",
+		"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-suba_.w3u",
 			"import":"true"
 		},
 		{
@@ -28,19 +25,19 @@
 			{
 				"name":"รวม",
 				"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_.w3u",
 					"import":"true"
 			},
 			{
 				"name":"พากย์ไทย",
 				"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_พากย์ไทย.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_พากย์ไทย.w3u",
 					"import":"true"
 			},
 			{
 				"name":"ซับไทย",
 				"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_ซับไทย.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_ซับไทย.w3u",
 					"import":"true"
 			},
 			{
@@ -50,175 +47,175 @@
 				{
 					"name":"คะแนนสุงสุด",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_scoretop.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_scoretop.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ต่อสู้",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_action.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_action.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ผจญภัย",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_adventure.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_adventure.w3u",
 						"import":"true"
 				},
 				{
 					"name":"อนิเมชั่น",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_animation.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_animation.w3u",
 						"import":"true"
 				},
 				{
 					"name":"รถ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_cars.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_cars.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ตลก",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_comedy.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_comedy.w3u",
 						"import":"true"
 				},
 				{
 					"name":"อาชญากรรม",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_crime.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_crime.w3u",
 						"import":"true"
 				},
 				{
 					"name":"คลุ้มคลั่ง",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_dementia.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_dementia.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ปีศาจ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_demons.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_demons.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ดราม่า",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_drama.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_drama.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ครอบครัว",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_family.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_family.w3u",
 						"import":"true"
 				},
 				{
 					"name":"แฟนตาซี",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_fantasy.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_fantasy.w3u",
 						"import":"true"
 				},
 				{
 					"name":"เกม",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_game.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_game.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ประวัติศาสตร์",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_historical.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_historical.w3u",
 						"import":"true"
 				},
 				{
 					"name":"หลอน",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_horror.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_horror.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ต่างโลก",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_isekai.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_isekai.w3u",
 						"import":"true"
 				},
 				{
 					"name":"สำหรับเด็ก",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_kids.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_kids.w3u",
 						"import":"true"
 				},
 				{
 					"name":"เวทย์มนต์",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_magic.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_magic.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ศิลปะการต่อสู้",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_martial-arts.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_martial-arts.w3u",
 						"import":"true"
 				},
 				{
 					"name":"หุ่นยนต์",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_mecha.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_mecha.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ทหาร",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_military.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_military.w3u",
 						"import":"true"
 				},
 				{
 					"name":"เพลง",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_music.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_music.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ลึกลับ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_mystery.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_mystery.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ล้อเลียน",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_parody.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_parody.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ตำรวจ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_police.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_police.w3u",
 						"import":"true"
 				},
 				{
 					"name":"กีฬา",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_sport.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_sport.w3u",
 						"import":"true"
 				},
 				{
 					"name":"เหนือธรรมชาติ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_supernatural.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_supernatural.w3u",
 						"import":"true"
 				},
 				{
 					"name":"พลังพิเศษ",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_super-power.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_super-power.w3u",
 						"import":"true"
 				},
 				{
 					"name":"หนังแนวแปลงร่าง",
 					"image":"https://i.ibb.co/FYjfWQ0/Untitled-3.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/fairyanime_tokusatsu.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/fairyanime_tokusatsu.w3u",
 						"import":"true"
 				}
 			  ]
@@ -233,25 +230,25 @@
 			{
 				"name":"รวม",
 				"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animehdzeroo_รวม.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_รวม.w3u",
 					"import":"true"
 			},
 			{
 				"name":"พากย์ไทย",
 				"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animehdzeroo_พากย์ไทย.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_พากย์ไทย.w3u",
 					"import":"true"
 			},
 			{
 				"name":"ซับไทย",
 				"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animehdzeroo_ซับไทย.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_ซับไทย.w3u",
 					"import":"true"
 			},
 			{
 				"name":"เดอะมูฟวี่",
 				"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
-				"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animehdzeroo_เดอะมูฟวี่.w3u",
+				"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_เดอะมูฟวี่.w3u",
 					"import":"true"
 			}
 		  ]
@@ -263,43 +260,43 @@
 				{
 				   "name":"🦭รวม🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_anime_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_anime_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭2023🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_2023_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_2023_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭พากย์ไทย🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_thai_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_thai_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭ซับไทย🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_sub-th_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_sub-th_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭จบแล้ว🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_จบแล้ว_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_จบแล้ว_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭ยังไม่จบ🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_ยังไม่จบ_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_ยังไม่จบ_.w3u",
 				   "import":"true"
 				},
 				{
 				   "name":"🦭เดอะมูฟวี่🐒", 
 				   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-				   "url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-indy_themovie_.w3u",
+				   "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_themovie_.w3u",
 				   "import":"true"
 				}
 			  ]
@@ -311,49 +308,49 @@
 				{
 					"name":"🦭ANIME-MOJI All🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii__.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii__.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭อนิเมะมาใหม่ 2023🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_อนิเมะมาใหม่-2023_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะมาใหม่-2023_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭อนิเมะพากย์ไทย🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_อนิเมะพากย์ไทย_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะพากย์ไทย_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭อนิเมะซับไทย🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_อนิเมะซับไทย_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะซับไทย_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭chinaanime🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_chinaanime_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_chinaanime_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭ยังไม่จบ🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_ยังไม่จบ_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_ยังไม่จบ_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭จบแล้ว🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_จบแล้ว_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_จบแล้ว_.w3u",
 						"import":"true"
 				},
 				{
 					"name":"🦭themovie🐒", 
 					"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/anime-mojii_themovie_.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_themovie_.w3u",
 						"import":"true"
 				}
 			  ]
@@ -365,37 +362,37 @@
 				{
 					"name":"อนิเมะทั้งหมด",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_อนิเมะทั้งหมด.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_อนิเมะทั้งหมด.html.w3u",
 						"import":"true"
 				},
 				{
 					"name":"พากย์ไทย",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_อนิเมะ-พากย์ไทย.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_อนิเมะ-พากย์ไทย.html.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ซับไทย",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_อนิเมะ-ซับไทย.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_อนิเมะ-ซับไทย.html.w3u",
 						"import":"true"
 				},
 				{
 					"name":"เดอะมูฟวี่",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_the-movie.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_the-movie.html.w3u",
 						"import":"true"
 				},
 				{
 					"name":"จบเเล้ว",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_จบเเล้ว.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_จบเเล้ว.html.w3u",
 						"import":"true"
 				},
 				{
 					"name":"ยังไม่จบ",
 					"image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-					"url":"https://raw.githubusercontent.com/provides1/playlist/refs/heads/main/animetobi_ยังไม่จบ.html.w3u",
+					"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animetobi_ยังไม่จบ.html.w3u",
 						"import":"true"
 				}
 			  ]
