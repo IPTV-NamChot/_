@@ -6,7 +6,12 @@
 "groups":
 [{
 
-"name": " 📺DTV-Free📺",
+"name": "DTV(OTT.m3u)",
+"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
+"url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
+"import": "false"
+},{
+"name": " 📺DTV-Free",
 "image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
 "url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
 "import": "false"
