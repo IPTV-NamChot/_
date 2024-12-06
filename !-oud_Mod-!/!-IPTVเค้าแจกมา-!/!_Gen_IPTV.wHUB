@@ -6,14 +6,14 @@
 "groups":
 [{
 
-"name": "IPTV THAILAND",
-"image": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",
-"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
-"import": "false"
-},{
 "name": "DTV(OTT.m3u)",
 "image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
 "url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
+"import": "false"
+},{
+"name": "DTV(akkradet)",
+"image": "https://img5.pic.in.th/file/secure-sv1/DTV.jpg",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
 "import": "false"
 },{
 "name": " 📺DTV-Free",
