@@ -6,6 +6,11 @@
 "groups":
 [{
 
+"name": "IPTV THAILAND",
+"image": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
+"import": "false"
+},{
 "name": "DTV(OTT.m3u)",
 "image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
 "url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
