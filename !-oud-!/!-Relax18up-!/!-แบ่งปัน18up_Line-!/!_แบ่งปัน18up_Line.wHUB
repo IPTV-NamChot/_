@@ -7,6 +7,11 @@
 "groups":
 [{
 
+"name": "Gojek V3",
+"url": "https://drive.google.com/uc?id=1ZWrjoN7MdtUuwNDdbKrVYKrmgC9xaeve",
+"image": "https://img5.pic.in.th/file/secure-sv1/18V3.png",
+"import": false
+},{
 "name": "Super AV",
 "image": "https://png.pngtree.com/png-vector/20220221/ourlarge/pngtree-iconic-logo-a-combination-of-red-and-white-letters-av-with-alphabet-v-in-color-vector-png-image_27576116.jpg",
 "url": "https://drive.google.com/uc?id=10keMoCMqwjY8rCAgVlosXgoPGVJdWrdA",
