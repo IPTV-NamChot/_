@@ -21,44 +21,64 @@
 "url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
 "import": "false"
 },{
-"name": "Sports[กีฬา]",
-"image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
-"url": "https://drive.google.com/uc?id=1jCnTDbZNerg8sfnt8oKqWxbKfsll_ZJy",
+"name": " Sport",			
+"image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
+"url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
 "import": "false"
 },{
-"name": "DooKeeLa",
-"image": "https://dookeela.live/images/logo.png",
-"url":"https://drive.google.com/uc?id=11jxT-cPm1Z9BEw-hDx6qnlNZp1xh-Y9Y",
+"name": "Digital",			
+"image": "https://img2.pic.in.th/pic/digiv3.png",		
+"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
 "import": "false"
 },{
-"name": "dooball2you",
-"image": "https://i.postimg.cc/XqP1N2zX/DooBall.jpg",
-"url": "https://drive.google.com/uc?id=11hcBnOqhCpq_2WXoB-4ssRdgrEZ9lMvv",
+"name": "บันเทิง",			
+"image": "https://img2.pic.in.th/pic/Entv3.png",		
+"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",	
 "import": "false"
 },{
-"name": "🐲Ball2024", 
-"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=2000",
-"url"  :    "https://drive.google.com/uc?id=1-JNsX-QPrxb5VZLSTNIKGk_WHRX14rg6",
+"name": "สารคดี",			
+"image": "https://img5.pic.in.th/file/secure-sv1/Docv3.png",		
+"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",	
 "import": "false"
 },{
-"name":	"Sports ",
-"image":	"https://play-lh.googleusercontent.com/0jzQcQ-7rhBIi_JpTxjUJoCqIXjdu6AzM7IucLQWp4sY2vsx8Oiid2DXJM5wCTuPAZ4=s180-rw",
-"url":   "https://drive.google.com/uc?id=12Y6U1CraWkgjkK2aDZ17OoNHfN7ek3as",
+"name": "การ์ตูน",			
+"image": "https://img2.pic.in.th/pic/Carv3.png",		
+"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
 "import": "false"
 },{
-"name": "กีฬารายวัน",
-"image": "https://dookeela.live/images/logo-bar.png",
-"url": "https://docs.google.com/uc?export=download&id=1GZpfVxr86iEu63VDM73mKQz8eKqdIlg2",
+"name": "เพลง-008",			
+"image": "https://img2.pic.in.th/pic/MusicV3x.png",		
+"url": "https://drive.google.com/uc?id=10K6tyFMYzr8Iv4n9S0-uoiihfrulki-M",	
 "import": "false"
 },{
-"name": " Japan TV",
-"image": "https://i.postimg.cc/tThx6jV2/JPTV.jpg",
-"url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+"name": "หนังออนไลน์",			
+"image": "https://img5.pic.in.th/file/secure-sv1/MovieonV3.png",		
+"url": "",	
 "import": "false"
 },{
-"name": "🐲Global IPTV",
-"image": "https://i.postimg.cc/SKm3wfL8/GIPTV.jpg",
-"url": "http://tiny.cc/nnblzz",
+"name": "ซีรี่ออนไลน์",			
+"image": "https://img2.pic.in.th/pic/SeriesV3.png",		
+"url": "",	
+"import": "false"
+},{
+"name": "ทีวีดาวเทียม",			
+"image": "https://img5.pic.in.th/file/secure-sv1/45788bd10980c7e61f70d828df44dd05.png",		
+"url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",	
+"import": "false"
+},{
+"name": "ข่าว",			
+"image": "https://img2.pic.in.th/pic/NewsV3.png",		
+"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",	
+"import": "false"
+},{
+"name": "ทีวีต่างประเทศ",			
+"image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
+"url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
+"import": "false"
+},{
+"name": "วิทยุ",			
+"image": "https://img2.pic.in.th/pic/RadioV3.png",		
+"url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
 "import": "false"
 },{
 "name": "#หนัง&ซีรี่ย์(Streaming)#",
