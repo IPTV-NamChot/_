@@ -6,6 +6,23 @@
 "groups":
 [{
 
+"name": "#หนัง&ซีรี่ย์(Streaming)#",
+"image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/หนัง_Stream/!_Gen_Movies.wHUB",
+"import": "false"
+#== ORG: "https://github.com/provides1/playlist" ==#
+#== ORG: "https://drive.google.com/uc?id=1QCnN9pecF00b9WAb6zCidDIg-FxlPNZl" ==#
+},{
+"name": "#การ์ตูน&Anime#",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/การ์ตูน_Anime/!_Gen_Anime.wHUB",
+"import": "false"
+},{
+"name": "Digital",			
+"image": "https://img2.pic.in.th/pic/digiv3.png",		
+"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
+"import": "false"
+},{
 "name": "DTV(OTT.m3u)",
 "image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
 "url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
@@ -24,11 +41,6 @@
 "name": " Sport",			
 "image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
 "url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
-"import": "false"
-},{
-"name": "Digital",			
-"image": "https://img2.pic.in.th/pic/digiv3.png",		
-"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
 "import": "false"
 },{
 "name": "บันเทิง",			
@@ -69,18 +81,6 @@
 "name": "วิทยุ",			
 "image": "https://img2.pic.in.th/pic/RadioV3.png",		
 "url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
-"import": "false"
-},{
-"name": "#หนัง&ซีรี่ย์(Streaming)#",
-"image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/หนัง_Stream/!_Gen_Movies.wHUB",
-"import": "false"
-#== ORG: "https://github.com/provides1/playlist" ==#
-#== ORG: "https://drive.google.com/uc?id=1QCnN9pecF00b9WAb6zCidDIg-FxlPNZl" ==#
-},{
-"name": "#การ์ตูน&Anime#",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/การ์ตูน_Anime/!_Gen_Anime.wHUB",
 "import": "false"
 },{
 "name": " ผู้เฒ่าพเนจร",
