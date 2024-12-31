@@ -8,15 +8,123 @@
 "groups":
 [{
 
-"name": "@IPTVเค้าแจกมา@",
-"image": "https://static.emol.cl/emol50/Fotos/2020/03/24/file_20200324114817.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/!_Gen_IPTV.wHUB",
-"import": false
+"name": "#หนัง&ซีรี่ย์(Streaming)#",
+"image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/หนัง_Stream/!_Gen_Movies.wHUB",
+"import": "false"
+#== ORG: "https://github.com/provides1/playlist" ==#
+#== ORG: "https://drive.google.com/uc?id=1QCnN9pecF00b9WAb6zCidDIg-FxlPNZl" ==#
 },{
-"name": "@OnWeb..Movies@",
+"name": "#การ์ตูน&Anime#",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-IPTVเค้าแจกมา-!/การ์ตูน_Anime/!_Gen_Anime.wHUB",
+"import": "false"
+},{
+"name": "#OnWeb..Movies#",
 "image": "https://i.imgur.com/VeAtnat.jpeg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-OnWeb_Movies-!/OnWeb_Movies.wHUB",
 "import": false
+"import": "false"
+},{
+"name": "DTV(OTT.m3u)",
+"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
+"url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
+"import": "false"
+},{
+"name": "DTV(akkradet)",
+"image": "https://www.piccolo-tv.com/assets/img/blog/blog-7.jpg",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
+"import": "false"
+},{
+"name": " 📺DTV-Free",
+"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
+"url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
+"import": "false"
+},{
+"name": "Digital",			
+"image": "https://img2.pic.in.th/pic/digiv3.png",		
+"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
+"import": "false"
+},{
+"name": " Sport",			
+"image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
+"url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
+"import": "false"
+},{
+"name": "บันเทิง",			
+"image": "https://img2.pic.in.th/pic/Entv3.png",		
+"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",	
+"import": "false"
+},{
+"name": "สารคดี",			
+"image": "https://img5.pic.in.th/file/secure-sv1/Docv3.png",		
+"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",	
+"import": "false"
+},{
+"name": "การ์ตูน",			
+"image": "https://img2.pic.in.th/pic/Carv3.png",		
+"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
+"import": "false"
+},{
+"name": "เพลง",			
+"image": "https://img2.pic.in.th/pic/MusicV3x.png",		
+"url": "https://drive.google.com/uc?id=10K6tyFMYzr8Iv4n9S0-uoiihfrulki-M",	
+"import": "false"
+},{
+"name": "ทีวีดาวเทียม",			
+"image": "https://img5.pic.in.th/file/secure-sv1/45788bd10980c7e61f70d828df44dd05.png",		
+"url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",	
+"import": "false"
+},{
+"name": "ข่าว",			
+"image": "https://img2.pic.in.th/pic/NewsV3.png",		
+"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",	
+"import": "false"
+},{
+"name": "ทีวีต่างประเทศ",			
+"image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
+"url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
+"import": "false"
+},{
+"name": "วิทยุ",			
+"image": "https://img2.pic.in.th/pic/RadioV3.png",		
+"url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
+"import": "false"
+},{
+"name": " ผู้เฒ่าพเนจร",
+"url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
+"image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
+"import": "false"
+},{
+"name": "Watchlakorn.In(ละคร)",
+"image": "https://media4.giphy.com/media/5ZYFKsDQV5y0cgsoin/giphy.gif",
+"url":"https://shorturl.at/aioPY",
+"import":"false"
+},{
+"name": "Movie HD",
+"image": "https://www.i-pic.info/i/Xks4367395.jpg",
+"url": "https://pastebin.com/raw/5PSfXFxd",
+"import":"false"
+},{
+"name": "Movie & Series",
+"image": "https://i.postimg.cc/vHp2pNnN/Movie6.jpg",
+"url": "https://drive.google.com/uc?id=1deDof6B1UsrPNeRda21magjKQelOzs_Z",
+"import": "false"
+},{
+"name": "   📺TV+หนัง📺  ",
+"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+"url": "https://bit.ly/3v8YuR5",
+"import": "false"
+},{
+"name": "IPTV Society",
+"image": "https://i.postimg.cc/g2TvwdXh/is.jpg",
+"url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
+"import": "false"
+},{
+"name": "###",
+"image": "https://drive.google.com/uc?id=19sbN3taSIOQKB2idaOaD9SDdhnf1T_K1",
+"url": "https://",
+"import": "false"
 }]
 
 }
