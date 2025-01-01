@@ -8,7 +8,11 @@
 "groups":
 [{
 
-
+"name": " #Digital_TV#",
+"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
+"url": "https://drive.google.com/uc?id=1i6MyxbjwzSCorvAhvbzQSDtFsaRwLP_z",
+"import": "false"
+},{
 "name": "#หนัง&ซีรี่ย์(Streaming)#",
 "image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-หนัง-ซีรี่ย์_Stream-!/!_Gen_Movies.wHUB",
@@ -24,79 +28,9 @@
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-OnWeb_Movies-!/OnWeb_Movies.wHUB",
 "import": "false"
 },{
-"name": "DTV(OTT.m3u)",
-"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
-"url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
-"import": "false"
-},{
-"name": "DTV(akkradet)",
-"image": "https://www.piccolo-tv.com/assets/img/blog/blog-7.jpg",
-"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
-"import": "false"
-},{
-"name": " 📺DTV-Free",
-"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
-"url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
-"import": "false"
-},{
-"name": "Digital",			
-"image": "https://img2.pic.in.th/pic/digiv3.png",		
-"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
-"import": "false"
-},{
-"name": " Sport",			
-"image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
-"url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
-"import": "false"
-},{
-"name": "บันเทิง",			
-"image": "https://img2.pic.in.th/pic/Entv3.png",		
-"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",	
-"import": "false"
-},{
-"name": "สารคดี",			
-"image": "https://img5.pic.in.th/file/secure-sv1/Docv3.png",		
-"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",	
-"import": "false"
-},{
-"name": "การ์ตูน",			
-"image": "https://img2.pic.in.th/pic/Carv3.png",		
-"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
-"import": "false"
-},{
-"name": "เพลง",			
-"image": "https://img2.pic.in.th/pic/MusicV3x.png",		
-"url": "https://drive.google.com/uc?id=10K6tyFMYzr8Iv4n9S0-uoiihfrulki-M",	
-"import": "false"
-},{
-"name": "หนังออนไลน์",
-"image": "https://img5.pic.in.th/file/secure-sv1/MovieonV3.png",
-"url": "https://drive.google.com/uc?id=1X-uQAHe9DwuC_MUVuB9OvcDxdCBf9LiG",
-"import": "false"
-},{
-"name": "ซีรี่ออนไลน์",
-"image": "https://img2.pic.in.th/pic/SeriesV3.png",
-"url": "https://drive.google.com/uc?id=1X4C484JPZ9KQ--rsKAG90xUkKXiVVRP0",
-"import": "false"
-},{
-"name": "ทีวีดาวเทียม",			
-"image": "https://img5.pic.in.th/file/secure-sv1/45788bd10980c7e61f70d828df44dd05.png",		
-"url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",	
-"import": "false"
-},{
-"name": "ข่าว",			
-"image": "https://img2.pic.in.th/pic/NewsV3.png",		
-"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",	
-"import": "false"
-},{
-"name": "ทีวีต่างประเทศ",			
-"image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
-"url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
-"import": "false"
-},{
-"name": "วิทยุ",			
-"image": "https://img2.pic.in.th/pic/RadioV3.png",		
-"url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
+"name": "#Gojek_TV#",
+"image": "https://img5.pic.in.th/file/secure-sv1/Face-V3.png",
+"url": "https://drive.google.com/uc?id=1hzi3vKcv6bZkkNvVnDl7VOXq2e-VPezq",
 "import": "false"
 },{
 "name": " ผู้เฒ่าพเนจร",
