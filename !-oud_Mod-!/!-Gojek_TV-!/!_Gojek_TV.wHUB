@@ -1,0 +1,65 @@
+{
+"name": "Gojek_TV",
+"author": "!_Gen_Anime.wHUB@IPTV-NamChot",
+#== "!_oud@IPTV/!-GitHub-!\!-oud_Mod-!\!-Gojek_T-!" ==#
+"image": "https://img5.pic.in.th/file/secure-sv1/Face-V3.png",
+"groups":
+[{
+
+"name": " Sport",			
+"image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
+"url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
+"import": "false"
+},{
+"name": "บันเทิง",			
+"image": "https://img2.pic.in.th/pic/Entv3.png",		
+"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",	
+"import": "false"
+},{
+"name": "สารคดี",			
+"image": "https://img5.pic.in.th/file/secure-sv1/Docv3.png",		
+"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",	
+"import": "false"
+},{
+"name": "การ์ตูน",			
+"image": "https://img2.pic.in.th/pic/Carv3.png",		
+"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
+"import": "false"
+},{
+"name": "เพลง",			
+"image": "https://img2.pic.in.th/pic/MusicV3x.png",		
+"url": "https://drive.google.com/uc?id=10K6tyFMYzr8Iv4n9S0-uoiihfrulki-M",	
+"import": "false"
+},{
+"name": "หนังออนไลน์",
+"image": "https://img5.pic.in.th/file/secure-sv1/MovieonV3.png",
+"url": "https://drive.google.com/uc?id=1X-uQAHe9DwuC_MUVuB9OvcDxdCBf9LiG",
+"import": "false"
+},{
+"name": "ซีรี่ออนไลน์",
+"image": "https://img2.pic.in.th/pic/SeriesV3.png",
+"url": "https://drive.google.com/uc?id=1X4C484JPZ9KQ--rsKAG90xUkKXiVVRP0",
+"import": "false"
+},{
+"name": "ทีวีดาวเทียม",			
+"image": "https://img5.pic.in.th/file/secure-sv1/45788bd10980c7e61f70d828df44dd05.png",		
+"url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",	
+"import": "false"
+},{
+"name": "ข่าว",			
+"image": "https://img2.pic.in.th/pic/NewsV3.png",		
+"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",	
+"import": "false"
+},{
+"name": "ทีวีต่างประเทศ",			
+"image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
+"url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
+"import": "false"
+},{
+"name": "วิทยุ",			
+"image": "https://img2.pic.in.th/pic/RadioV3.png",		
+"url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
+"import": "false"
+}]
+
+}
