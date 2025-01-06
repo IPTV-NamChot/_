@@ -1,6 +1,6 @@
 {
 "name": "@บ้านเรืองเดช@",
-"author": "!_Baan_RD.wHUB@IPTV-NamChot",
+"author": "Github@IPTV-NamChot",
 #== "IPTV-NamChot\!-GitHub-!\!-oud_Mod-!" ==#
 "image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!_Baan_RD.wHUB",
@@ -8,17 +8,12 @@
 "groups":
 [{
 
-"name": " #Digital_TV#",
-"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Digital_TV-!/!_Digital_TV.wHUB",
+"name": " #All_IPTV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCIcp-MbqLkC4JPRXrzxm3In4WGTWar2DqQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/!_All_IPTV.wHUB",
 "import": "false"
 },{
-"name": "#Gojek_TV#",
-"image": "https://img5.pic.in.th/file/secure-sv1/Face-V3.png",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Gojek_TV-!/!_Gojek_TV.wHUB",
-"import": "false"
-},{
-"name": "#หนัง&ซีรี่ย์(Streaming)#",
+"name": "#Streaming-หนัง&ซีรี่ย์#",
 "image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-หนัง-ซีรี่ย์_Stream-!/!_Gen_Movies.wHUB",
 "import": "false"
@@ -28,7 +23,7 @@
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-การ์ตูน_Anime-!/!_Gen_Anime.wHUB",
 "import": "false"
 },{
-"name": "#OnWeb..Movies#",
+"name": "#OnWeb_Movies#",
 "image": "https://i.imgur.com/VeAtnat.jpeg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-OnWeb_Movies-!/OnWeb_Movies.wHUB",
 "import": "false"
@@ -43,16 +38,6 @@
 "image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
 "import": "false"
 },{
-"name": "Watchlakorn.In(ละคร)",
-"image": "https://media4.giphy.com/media/5ZYFKsDQV5y0cgsoin/giphy.gif",
-"url":"https://shorturl.at/aioPY",
-"import":"false"
-},{
-"name": "Movie HD",
-"image": "https://www.i-pic.info/i/Xks4367395.jpg",
-"url": "https://pastebin.com/raw/5PSfXFxd",
-"import":"false"
-},{
 "name": "Movie & Series",
 "image": "https://i.postimg.cc/vHp2pNnN/Movie6.jpg",
 "url": "https://drive.google.com/uc?id=1deDof6B1UsrPNeRda21magjKQelOzs_Z",
@@ -61,11 +46,6 @@
 "name": "   📺TV+หนัง📺  ",
 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "url": "https://bit.ly/3v8YuR5",
-"import": "false"
-},{
-"name": "IPTV Society",
-"image": "https://i.postimg.cc/g2TvwdXh/is.jpg",
-"url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
 "import": "false"
 },{
 "name": "###",
