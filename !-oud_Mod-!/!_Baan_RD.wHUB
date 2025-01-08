@@ -8,12 +8,12 @@
 "groups":
 [{
 
-"name": " #All_IPTV",
+"name": "    #All_IPTV#",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCIcp-MbqLkC4JPRXrzxm3In4WGTWar2DqQ&usqp=CAU",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/!_All_IPTV.wHUB",
 "import": "false"
 },{
-"name": "#Streaming-หนัง&ซีรี่ย์#",
+"name": "#Streamingหนัง&ซีรี่ย์#",
 "image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-หนัง-ซีรี่ย์_Stream-!/!_Gen_Movies.wHUB",
 "import": "false"
@@ -33,14 +33,9 @@
 "url": "https://drive.google.com/uc?id=173HjvuHIw9f-S6F9DHSp-c2_cKOtRPdK",
 "import": "false"
 },{
-"name": " ผู้เฒ่าพเนจร",
+"name": "     ผู้เฒ่าพเนจร",
 "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
 "image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
-"import": "false"
-},{
-"name": "###",
-"image": "https://drive.google.com/uc?id=19sbN3taSIOQKB2idaOaD9SDdhnf1T_K1",
-"url": "https://",
 "import": "false"
 }]
 
