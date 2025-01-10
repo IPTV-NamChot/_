@@ -12,23 +12,28 @@
 "image": "https://cdn.kayiprihtim.com/wp-content/uploads/2020/08/anime-nedir.jpg",
 "url":"https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
 "import": false
-
-}]
-
-}
-
-
-
 },{
 name: "AnimeHDzero",
 image: "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
 url: "https://drive.google.com/uc?id=1D-YsBHsO2uyc-HXpj3PN_6Ccf6svjC_B",
 import: false
 },{
-"name":"Anime_oud@Github@",
-"image":"https://woodlawnswapnplay.org/wp-content/uploads/2021/10/index-web.png",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-การ์ตูน_Anime-!/!_Gen_Anime/Cartoon_Network_Studios.wHUB",
-"import": false
+"name": "Anim-indy",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+	"stations":
+	[{
+	"name": "Anim-indy",
+	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+	"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+	"import": false
+	}]
+}]
+
+}
+
+
+
+
 },{
 "name": "Anim-indy",
 "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
