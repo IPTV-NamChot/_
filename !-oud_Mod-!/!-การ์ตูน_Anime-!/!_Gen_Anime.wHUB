@@ -3,10 +3,9 @@
 "author": "!_Gen_Anime.wHUB@IPTV-NamChot",
 #== "!_oud@IPTV/!_@oud#Mod/การ์ตูน&Anime" ==#
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
-"info": "http://tiny.cc/Gen_Anime",
+"url":"https://drive.google.com/uc?id=1hkQzIsThL1j-p601TPpushk5rZGTKLQz",
 "groups":
 [{
-
 
 "name":"Anime@เอกชัย",
 "image": "https://cdn.kayiprihtim.com/wp-content/uploads/2020/08/anime-nedir.jpg",
@@ -20,40 +19,76 @@ import: false
 },{
 "name": "Anim-indy",
 "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-	"stations":
+	"groups":
 	[{
 	"name": "Anim-indy",
 	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-	"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
-	"import": false
+	#=ORG : "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he"
+	"groups":
+		[{
+		"name":" อนิเมะ หน้าแรก ",
+		"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+		"url": "https://drive.google.com/uc?id=1Ehlqspcrg_ooE4eOIi6CcVe-yRFh3PmX",
+		"import": false
+		},{
+		"name":" อนิเมะพากย์ไทย ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+		"url": "https://drive.google.com/uc?id=14DBZ6hiBbIyxmdeV_VEcNLjN9g9louFT",
+		"import": false
+		},{
+		"name":" อนิเมะจีน ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+		"url": "https://drive.google.com/uc?id=17YehxiIV_KMZ0pWzhfGnHGjU3xcFE3Ju",
+		"import": false  
+		},{
+		"name":" อนิเมะซับไทย ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+		"url": "https://drive.google.com/uc?id=1BGz2iQOYso8126EBv534PYFDdjE-yqi9",
+		"import": false  
+		},{	
+		"name":" เดอะมูฟวี่ ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+		"url": "https://drive.google.com/uc?id=13GtlR5ms01ZS6NTp1bV_MuhLRS7FE8j6",
+		"import": false
+		}]
+	},{
+	"name":"Anime-Indy@Oung-Oung",
+	"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+	#=ORG : "อุ๋ง อุ๋ง จะดูกับclick2ohm"
+	"groups":
+		[{
+		"name":"🦭รวม🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_anime_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭2023🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_2023_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭พากย์ไทย🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_thai_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭ซับไทย🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_sub-th_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭จบแล้ว🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_จบแล้ว_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭ยังไม่จบ🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_ยังไม่จบ_.w3u",
+		"import": "false"
+		},{
+		"name":"🦭เดอะมูฟวี่🐒", 
+		"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_themovie_.w3u",
+		"import": "false"
+		}]
 	}]
-}]
-
-}
-
-
-
-
-},{
-"name": "Anim-indy",
-"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-	"stations":
-	[{
-	"name": "Anim-indy",
-	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-	"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
-	"import": false
-	}]
-
-
-
-}]
-
-}
-
-
-
-
 },{
 "name": "Anime Moji",
 "image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
