@@ -3,7 +3,7 @@
 "author": "!_Gen_Anime.wHUB@IPTV-NamChot",
 #== "!_oud@IPTV/!_@oud#Mod/การ์ตูน&Anime" ==#
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
-#== ""url":"https://drive.google.com/uc?id=1hkQzIsThL1j-p601TPpushk5rZGTKLQz",
+"url":"https://drive.google.com/uc?id=1hkQzIsThL1j-p601TPpushk5rZGTKLQz",
 "groups":
 [{
 
@@ -11,25 +11,25 @@
 "image": "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
 	"groups":
 	[{
-	"name": "Anime HD Zero",
+	"name": "HD Zero",
 	"image": "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
 	#=ORG : "https://drive.google.com/uc?id=1D-YsBHsO2uyc-HXpj3PN_6Ccf6svjC_B"
 	"groups":
 		[{
-		"name": "Anime HD Zero [พากย์ไทย]",
+		"name": "=Anime HD Zero [พากย์ไทย]",
 		"image": "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
-		"ur": "https://drive.google.com/uc?id=1CwHkgPDfZCPEZjnfaLTeGKmC0GIJcQ4b",
-		import: false
+		url: "https://drive.google.com/uc?id=1CwHkgPDfZCPEZjnfaLTeGKmC0GIJcQ4b",
+		"import": "false"
 		},{
 		"name": "Anime HD Zero [ซับไทย]",
 		"image": "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
-		"ur": "https://drive.google.com/uc?id=1CpczCQvjoZ2YiuL7fJ0Xg3XuBsAFasRt",
-		import: false
+		"url": "https://drive.google.com/uc?id=1CpczCQvjoZ2YiuL7fJ0Xg3XuBsAFasRt",
+		"import": "false"
 		},{
 		"name": "Anime HD Zero Movies",
 		"image": "https://t3.ftcdn.net/jpg/04/92/51/66/360_F_492516631_Tzxtms5jydBakvSf3wA9g3gdNtiV1bqS.jpg",
-		"ur": "https://drive.google.com/uc?id=1D3NJLLErYwla8OiUD9Uvp7bXwhAQ05by",
-		import: false
+		"url": "https://drive.google.com/uc?id=1D3NJLLErYwla8OiUD9Uvp7bXwhAQ05by",
+		"import": "false"
 		}]
 	},{
 	"name":"HD-Zeroo@Oung-Oung",
@@ -63,7 +63,7 @@
 "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
 	"groups":
 	[{
-	"name": "Anim-indy",
+	"name": "Anim-Indy",
 	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
 	#=ORG : "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he"
 	"groups":
@@ -136,7 +136,7 @@
 "image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
 	"groups":
 	[{
-	"name": "Anime Moji",
+	"name": "Anime-Moji",
 	"image": "https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
 	#=ORG : "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
 	"groups":
