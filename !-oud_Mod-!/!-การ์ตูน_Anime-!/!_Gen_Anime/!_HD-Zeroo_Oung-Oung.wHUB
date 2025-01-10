@@ -1,0 +1,29 @@
+{
+"name":"HD-Zeroo@Oung-Oung",
+"author": "!_HD-Zeroo_Oung-Oung.wHUB@IPTV-NamChot",
+"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+"groups":
+[{
+
+"name":"รวม",
+"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_รวม.w3u",
+"import": "false"
+},{
+"name":"พากย์ไทย",
+"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_พากย์ไทย.w3u",
+"import": "false"
+},{
+"name":"ซับไทย",
+"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_ซับไทย.w3u",
+"import": "false"
+},{
+"name":"เดอะมูฟวี่",
+"image":"https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/animehdzeroo_เดอะมูฟวี่.w3u",
+"import": "false"
+}]
+
+}
