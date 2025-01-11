@@ -3,49 +3,30 @@
 "author": "!_Baan_RD.wHUB@IPTV-NamChot",
 #== "IPTV-NamChot\!-GitHub-!\!-oud_Mod-!" ==#
 "image": "https://drive.google.com/uc?id=1Y0ZVDtwPl2a_cm2JcQvTuZpVYdkBE_76&export=download",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!_Baan_RD.wHUB",
+#=="url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!_Baan_RD.wHUB",
 "parental" : "true",
 "groups":
 [{
 
-"name": "#All_IPTV#",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCIcp-MbqLkC4JPRXrzxm3In4WGTWar2DqQ&usqp=CAU",
+
+"name": "#Live TV Channels#",
+"image": "https://drive.google.com/uc?id=1tGWICVxq2AnVWWs4uEDQx9ZnwucHalQ-",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/!_Live_TV.wHUB",
+"import": "false"
+},{
+"name": "#Stream หนัง&ซีรี่ย์#",
+"image": "https://drive.google.com/uc?id=1tMSbX_3M6rW4Gte405ES40Q0thQ4bIHm",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/!_Stream.wHUB",
+"import": "false"
+},{
+"name":"#OnWeb หนัง&ซีรี่ย์#",
+"image":"https://drive.google.com/uc?id=1tP1LjPmJZARdyqqTCEyTLbgpZDpAnGVn",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-OnWeb-!/!_OnWeb.wHUB",
+"import": "false"
+},{
+"name":"#เก็บตก All IPTV#",
+"image": "https://drive.google.com/uc?id=1tb62EjE9GyHCfmSacsBUEZCRmfomG5XC",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/!_All_IPTV.wHUB",
-"import": "false"
-},{
-"name": "#Streamingหนัง&ซีรี่ย์#",
-"image": "https://image.bestreview.asia/wp-content/uploads/2022/03/streaming-online-movies.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-หนัง-ซีรี่ย์_Stream-!/!_Gen_Movies.wHUB",
-"import": "false"
-},{
-"name": "#การ์ตูน&Anime#",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-การ์ตูน_Anime-!/!_Gen_Anime.wHUB",
-"import": "false"
-},{
-"name": "#OnWeb_Movies#",
-"image":"https://i.pinimg.com/originals/1f/82/c9/1f82c992767ce8aeb6ef8b84a81a0eb2.gif",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-OnWeb_Movies-!/OnWeb_Movies.wHUB",
-"import": "false"
-},{
-"name": "สารคดี ดูดีมีความสุข",
-"image": "https://cdn.watchlakorn.in/storage/images/av-1471321780.jpg",
-"url": "https://drive.google.com/uc?id=173HjvuHIw9f-S6F9DHSp-c2_cKOtRPdK",
-"import": "false"
-},{
-"name": "ผู้เฒ่าพเนจร",
-"url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
-"image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
-"import": "false"
-},{
-"name": "WIN TV",
-"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url": "https://pastebin.com/raw/YpDkAZPg",
-"import": "false"
-},{
-"name": "XTEMUS_TV",
-"image": "https://tv.xtemus.com/images/x-logo.gif",
-"url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
 "import": "false"
 }]
 
