@@ -1,0 +1,21 @@
+{
+"name": "ช่องความบันเทิง",
+"author": "ช่องความบันเทิง.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+"image": "https://drive.google.com/uc?id=1-zUDfzf3ISm_-kXshuIa-UMUdv7BZ2hz",
+"url": "https://drive.google.com/uc?id=1sAef5sHw1jpUCmghUi4SETs6TcLH0IK6",
+"groups":
+[{
+
+"name": "บันเทิง(PinkTV)",
+"image": "https://drive.google.com/uc?id=1-zUDfzf3ISm_-kXshuIa-UMUdv7BZ2hz",
+"url": "https://drive.google.com/uc?id=1zUMyWiX9pnbhke6mGglvQK-h967u45Ox",
+"import": "false"
+},{
+"name": "บันเทิง(Gojek TV)",			
+"image": "https://img2.pic.in.th/pic/Entv3.png",		
+"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",	
+"import": "false"
+}]
+
+}

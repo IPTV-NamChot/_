@@ -1,7 +1,7 @@
 {
 "name": "Live_TV",
 "author": "!_Live_TV.wHUB@IPTV-NamChot",
-#== "!_oud@IPTV/!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
 "image": "https://drive.google.com/uc?id=1tGWICVxq2AnVWWs4uEDQx9ZnwucHalQ-",
 "groups":
 [{
@@ -9,32 +9,32 @@
 
 "name": "ช่องฟรีทีวี",
 "image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
-"url": "https://drive.google.com/uc?id=1zy1EZSTdmLztWNNJx3TYHQCTkiQES9SI",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องฟรีทีวี.wHUB",
 "import": "false"
 },{
 "name": "ช่องสำหรับเด็ก",
 "image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun",
-"url": "https://drive.google.com/uc?id=1zqKDhue3HzlslplVkBl_sgGS1e7LL46K",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องสำหรับเด็ก.wHUB",
 "import": "false"
 },{
 "name": "ช่องความบันเทิง",
 "image": "https://drive.google.com/uc?id=1-zUDfzf3ISm_-kXshuIa-UMUdv7BZ2hz",
-"url": "https://drive.google.com/uc?id=1sAef5sHw1jpUCmghUi4SETs6TcLH0IK6",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องความบันเทิง.wHUB",
 "import": "false"
 },{
 "name": "ช่องกีฬา",
 "image": "https://drive.google.com/uc?id=107ud8gxQo17tBw2ZJqPI4Trls9DNgC38",
-"url": "https://drive.google.com/uc?id=1zmkrflF70n1ib_hDLHUELRe6pdy0vkKG",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องกีฬา.wHUB",
 "import": "false"
 },{
 "name": "ช่องสารคดี",
 "image": "https://drive.google.com/uc?id=1-s_1U7PJgEhgLMqD_Ieuy9hlD4tay4Zg",
-"url": "https://drive.google.com/uc?id=1zrGYJfXA7OGBgNxVdSqK_1hvS1w7XamV",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องสารคดี.wHUB",
 "import": "false"
 },{
 "name": "ช่องข่าวต่างประเทศ",
 "image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
-"url": "https://drive.google.com/uc?id=1uZh25lAp3NUTJhFGn4y_KRTv8rSl288F",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องข่าวต่างประเทศ.wHUB",
 "import": "false"
 },{
 "name": "เพลง",			

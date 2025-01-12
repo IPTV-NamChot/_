@@ -1,0 +1,21 @@
+{
+"name": "ช่องข่าวต่างประเทศ",
+"author": "ช่องข่าวต่างประเทศ.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+"image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
+"url": "https://drive.google.com/uc?id=1uZh25lAp3NUTJhFGn4y_KRTv8rSl288F",
+"groups":
+[{
+
+"name": "ข่าว(PinkTV)",
+"image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
+"url": "https://drive.google.com/uc?id=1zXCFxNy0VF0JKa7GMriObD0YbkbFRjVL",
+"import": "false"
+},{
+"name": "ข่าว(Gojek TV)",			
+"image": "https://img2.pic.in.th/pic/NewsV3.png",		
+"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",	
+"import": "false"
+}]
+
+}

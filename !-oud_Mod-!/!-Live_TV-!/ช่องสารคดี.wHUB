@@ -1,0 +1,21 @@
+{
+"name": "ช่องสารคดี",
+"author": "ช่องสารคดี.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+"image": "https://drive.google.com/uc?id=1-s_1U7PJgEhgLMqD_Ieuy9hlD4tay4Zg",
+"url": "https://drive.google.com/uc?id=1zrGYJfXA7OGBgNxVdSqK_1hvS1w7XamV",
+"groups":
+[{
+
+"name": "สารคดี(PinkTV)",
+"image": "https://drive.google.com/uc?id=1-s_1U7PJgEhgLMqD_Ieuy9hlD4tay4Zg",
+"url": "https://drive.google.com/uc?id=1zT-J6Mi_v2Uy8BAvGfmZf_UDLBPy1sUj",
+"import": "false"
+},{
+"name": "สารคดี(Gojek TV)",		
+"image": "https://img5.pic.in.th/file/secure-sv1/Docv3.png",		
+"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",	
+"import": "false"
+}]
+
+}

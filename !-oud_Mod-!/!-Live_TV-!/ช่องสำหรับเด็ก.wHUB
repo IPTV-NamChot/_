@@ -1,0 +1,21 @@
+{
+"name": "ช่องสำหรับเด็ก",
+"author": "ช่องสำหรับเด็ก.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun",
+"url": "https://drive.google.com/uc?id=1zqKDhue3HzlslplVkBl_sgGS1e7LL46K",
+"groups":
+[{
+
+"name": "การ์ตูน(PinkTV)",
+"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun",
+"url": "https://drive.google.com/uc?id=1zRiyG9Z8mcE2WRxsYo6DV8BNjBGjfTWg",
+"import": "false"
+},{
+"name": "การ์ตูน(Gojek TV)",			
+"image": "https://img2.pic.in.th/pic/Carv3.png",		
+"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
+"import": "false"
+}]
+
+}
