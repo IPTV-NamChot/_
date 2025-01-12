@@ -1,0 +1,65 @@
+{
+"name": "📺UdomTV📺",
+"author": "UdomTV.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-All_IPTV-!" ==#
+"image": "https://thumb.ac-illust.com/6d/6dc2d6abe22eaa15ea066134c983f2ac_t.jpeg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/UdomTV.wHUB",
+#==ORG : "https://drive.google.com/uc?export=download&id=1Pi3vd3xSImt4eUAB4Qb482lOJrLHUvgy"
+"groups":
+[{
+
+"name": "ช่องฟรีทีวี",
+"image": "https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
+"url": "https://drive.google.com/uc?id=1bNSIto7nmWMbuLg7W9uD2xg-Uc5V8r_k",
+"import": false
+},{
+"name": "ช่องสารคดี",
+"image": "https://static.vecteezy.com/system/resources/previews/048/744/334/non_2x/waterfall-on-the-horizon-isolated-against-a-transparent-background-png.png",
+"url": "https://drive.google.com/uc?id=10zOxwKACsy_AsjaYiVnnIopo8HV4rxl3",
+"import": false
+},{
+"name": "ช่องหนัง",
+"image": "https://wallpapers.com/images/hd/fast-furious-iconic-dodge-charger-a19eva50tnjg14sa-2.png",
+"url": "https://drive.google.com/uc?export=download&id=1sX89SpJSfJSkvblWNIGXPhZEvOQ5tBRi",
+"import": false
+},{
+"name": "ช่องเพลง",
+"image": "https://res.cloudinary.com/tint-world/image/upload/tw-uploads/templates/av-hero.png",
+"url": "https://drive.google.com/uc?export=download&id=1Sa4mXuQSJefY6TAQaudlm0b-z9rnvSYs",
+"import": false
+},{
+"name": "ช่องการ์ตูน",
+"image": "https://static.vecteezy.com/system/resources/previews/035/672/095/non_2x/ai-generated-a-pink-sports-car-on-a-transparent-background-free-png.png",
+"url": "https://drive.google.com/uc?export=download&id=12OfcognZOchWnh5xwoaTSo11cN_bYwEd",
+"import": false
+},{
+"name": "รวมการ์ตูน",
+"image": "https://static.vecteezy.com/system/resources/previews/035/672/102/non_2x/ai-generated-a-pink-sports-car-on-a-transparent-background-free-png.png",
+"url": "https://drive.google.com/uc?export=download&id=1-ICVuQrOBMXm-ACjhrBP76GCLJyftILH",
+"import": false
+},{
+"name": "รวมหนัง/ซีรีย์",
+"image": "https://static.vecteezy.com/system/resources/previews/035/672/097/non_2x/ai-generated-a-sports-car-model-on-a-transparent-background-free-png.png",
+"url": "https://drive.google.com/uc?id=14FvdS05IZ3HN0SPvsK3Tc9-Bvhmc8shE",
+"import": false
+},{
+"name": "รวมละครดัง",
+"image": "https://static.vecteezy.com/system/resources/previews/035/672/348/non_2x/ai-generated-a-white-sports-car-on-a-transparent-background-free-png.png",
+"url": "https://drive.google.com/uc?id=16mIu3eOB77dhtKiBLCBPDQisEBSPB9Fs",
+"import": false
+},{
+"name": "รวมช่องกีฬา",
+"image": "https://static.vecteezy.com/system/resources/previews/035/672/090/non_2x/ai-generated-a-sports-car-model-on-a-transparent-background-free-png.png",
+"url": "https://drive.google.com/uc?export=download&id=14XZ6ygHQIUX7QqQl4RfXBMXBIOLOiBM6",
+"import": false
+},{
+"name": "MotoSPORT",
+"image": "https://static.thenounproject.com/png/2093858-200.png",
+"url": "https://drive.google.com/uc?export=download&id=1VuLkkGkONIiwJYvI5MWgAuZ8HEwmhuRf",
+"import": false
+}]
+
+}
+
+
+
