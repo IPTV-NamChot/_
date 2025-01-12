@@ -1,0 +1,63 @@
+{
+"name": "BLACK_IPTV",
+"author": "BLACK_IPTV.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-All_IPTV-!" ==#
+"image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/df/ce/3adfced4-03f2-aea1-c7ad-d6bbf03175be/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/BLACK_IPTV.wHUB",
+#==BLACK IPTV v.2 "url": "https://pastebin.com/raw/Bx029SPx"
+"groups": 
+[{
+
+"name": "BIG TV",
+"image": "https://drive.google.com/uc?id=1xN8SpiCuQzYENlzD32q6Xi5v0bb3xZJz",
+"url": "https://pastebin.com/raw/1praLiNG",
+"import": "false"
+},{
+"name": "ผู้เฒ่าพเนจร",
+"image": "https://play-lh.googleusercontent.com/obmq2KS-2ZHhPsGmZdjspBduFM4x96on1XYaGC9J_tg_p1SopMytktmoSiRunECG0w=w600-h300-pc0xffffff-pd",
+"url": "https://pastebin.com/raw/8CQj5KgL",
+"import": "false"
+},{
+"name": "ผู้เฒ่าพเนจร SPORT",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sport_%28Schweizer_Zeitung%29_Logo.svg/1200px-Sport_%28Schweizer_Zeitung%29_Logo.svg.png",
+"url": "https://pastebin.com/raw/yhJiMLvE",
+"import": "false"
+},{
+"name": "Use@WatChindia",
+"image": "https://bizmatch.pro/_next/image/?url=https%3A%2F%2Fbackend.bizmatch.pro%2Fuploads%2Fiptv_7d1d1e9a02.png&w=1080&q=75",
+"url": "http://watchindia.net:8880/get.php?username=97869&password=86543&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@jmrk.Cubiche06",
+"image": "https://play-lh.googleusercontent.com/qVBLymJyAWhGFYUKlGS3pvXmKrLRu3D19YnJSumDcYLypXWvKoZ9qceaKJhJwXd3J9A",
+"url": "http://jmrk.xyz:3050/get.php?username=cubiche06@gmail.com&password=8JRhkEgYZ4&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@Tourobox1",
+"image": "https://play-lh.googleusercontent.com/X_58Tj5zyznlpcB6gqjA4ucf_qJGLTlVK5JDOmxC6Zk2QSb5eONsjduLLkY6Ube3lXg=w600-h300-pc0xffffff-pd",
+"url": "http://178.162.225.182:2082/get.php?username=Tourobox1-y85tOTzw47&password=Att3piLtZf&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@Xplus-1",
+"author": "",
+"image": "https://preview.redd.it/fdsy1d3hotka1.jpg?width=640&crop=smart&auto=webp&s=6f66e9a52918b1cdfb5aa6c50d3a5cf6c3d5d895",
+"url": "http://84.16.252.211:2082/get.php?username=Xplus-1-8AIpBtfW4I&password=pj7XCtiPOs&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@Cord-Cutter",
+"image": "https://archive.org/download/Kodiikid_gmail_Icon_201812/icon.png",
+"url": "http://cord-cutter.net:8080/get.php?username=FC86sA&password=631284&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@lunar.pm",
+"image": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/66/91/a8/6691a84d-95d6-3a03-a8ff-ca1cf2e28357/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",
+"url": "http://lunar.pm:8080/get.php?username=2053829921&password=SCZGZTb9G7yx&type=m3u_plus",
+"import": "false"
+},{
+"name": "Use@Fratellogianna",
+"image": "https://play-lh.googleusercontent.com/W8lo-r8nUyzccM1W2iQyfRWRKp5fwZo1vKGmQvX4vR7ii0DnxXYaJSpS1YlXPyQe2KE=w600-h300-pc0xffffff-pd",
+"url": "http://103.205.18.143:23000/get.php?username=Fratellogianna&password=Yh45tN2qd2&type=m3u_plus",
+"import": "false"
+}]
+
+}
