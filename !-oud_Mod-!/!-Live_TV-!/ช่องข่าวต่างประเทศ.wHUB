@@ -3,13 +3,13 @@
 "author": "ช่องข่าวต่างประเทศ.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
 "image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
-"url": "https://drive.google.com/uc?id=1uZh25lAp3NUTJhFGn4y_KRTv8rSl288F",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องข่าวต่างประเทศ.wHUB",
 "groups":
 [{
 
 "name": "ข่าว(PinkTV)",
 "image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
-"url": "https://drive.google.com/uc?id=1zXCFxNy0VF0JKa7GMriObD0YbkbFRjVL",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องข่าวต่างประเทศ/PinkTV@ช่องข่าวต่างประเทศ.wHUB",
 "import": "false"
 },{
 "name": "ข่าว(Gojek TV)",			

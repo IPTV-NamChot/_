@@ -3,13 +3,13 @@
 "author": "ช่องฟรีทีวี.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
 "image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
-"url": "https://drive.google.com/uc?id=1zy1EZSTdmLztWNNJx3TYHQCTkiQES9SI",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องฟรีทีวี.wHUB",
 "groups":
 [{
 
 "name": "DTV(PinkTV)",
 "image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
-"url": "https://drive.google.com/uc?id=1zTOpp4yuXu470D9HMA1AqSFy7uQY5icV",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องฟรีทีวี/PinkTV@ช่องฟรีทีวี.wHUB",
 "import": "false"
 },{
 "name": "DTV(OTT.m3u)",

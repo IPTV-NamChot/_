@@ -1,0 +1,288 @@
+{
+"name": "PinkTV@ช่องความบันเทิง",
+"author": "PinkTV@ช่องความบันเทิง.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
+"image": "https://drive.google.com/uc?id=11dmcDhzN59jajo8dwjqM4v0kYp9mX2Rl",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องความบันเทิง/PinkTV@ช่องความบันเทิง.wHUB",
+#==ORG: "https://bit.ly/PinkTV"
+"stations":
+[{
+
+     "name": "Alure Channel",
+     "image": "https://dookeela.live/uploads/1731057748.png",
+     "url": "https://dookeela.live/live-tv/alure-channel",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "AXN HD",
+     "image": "https://dookeela.live/uploads/1719897010.png",
+     "url": "https://dookeela.live/live-tv/axn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "CCM",
+     "image": "https://dookeela.live/uploads/1719803240.png",
+     "url": "https://dookeela.live/live-tv/ccm",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+ {
+     "name": "CINEMAX",
+     "image": "https://dookeela.live/uploads/1703786799.png",
+     "url": "https://dookeela.live/live-tv/cinemax",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "FWSOV",
+     "image": "https://drive.google.com/uc?id=1JwiQkUYXhysluJZh_XbuFg-mRoL9ae3P",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
+     "referer": "https://www.inwiptv.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "FWMOV",
+     "image": "https://drive.google.com/uc?id=19LyfMaFGiaov_mfkFyBkDW2fPitQwaBj",
+     "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
+     "referer": "https://www.inwiptv.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO",
+     "image": "https://dookeela.live/uploads/1703686191.png",
+     "url": "https://dookeela.live/live-tv/hbo",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Family",
+     "image": "https://dookeela.live/uploads/1703786776.png",
+     "url": "https://dookeela.live/live-tv/hbo-family",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Hits",
+     "image": "https://dookeela.live/uploads/1703786599.png",
+     "url": "https://dookeela.live/live-tv/hbo-hits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Signature",
+     "image": "https://dookeela.live/uploads/1703786305.png",
+     "url": "https://dookeela.live/live-tv/hbo-signature",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "Lifetime",
+     "image": "https://dookeela.live/uploads/1720781589.png",
+     "url": "https://dookeela.live/live-tv/lifetime",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "Paramount Network",
+     "image": "https://dookeela.live/uploads/1706112779.png",
+     "url": "https://dookeela.live/live-tv/paramount-network",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HITS",
+     "image": "https://dookeela.live/uploads/1706112791.png",
+     "url": "https://dookeela.live/live-tv/hits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HITS MOVIES",
+     "image": "https://dookeela.live/uploads/1714100677.png",
+     "url": "https://dookeela.live/live-tv/hits-movies",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "iQIYI",
+     "image": "https://dookeela.live/uploads/1706405008.png",
+     "url": "https://dookeela.live/live-tv/iqiyi",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "KBS World HD",
+     "image": "https://dookeela.live/uploads/1719897483.png",
+     "url": "https://dookeela.live/live-tv/kbsworld",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+{
+     "name": "True Asian More",
+     "image": "https://dookeela.live/uploads/1719205850.png",
+     "url": "https://dookeela.live/live-tv/trueasianmore",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film 1",
+     "image": "https://dookeela.live/uploads/1720380229.png",
+     "url": "https://dookeela.live/live-tv/truefilm1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film 2",
+     "image": "https://dookeela.live/uploads/1720723122.png",
+     "url": "https://dookeela.live/live-tv/truefilm2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film Asia",
+     "image": "https://dookeela.live/uploads/1719205705.png",
+     "url": "https://dookeela.live/live-tv/truefilmasia",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Movie Hits",
+     "image": "https://dookeela.live/uploads/1719803882.png",
+     "url": "https://dookeela.live/live-tv/truemoviehits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Series",
+     "image": "https://dookeela.live/uploads/1719205991.png",
+     "url": "https://dookeela.live/live-tv/trueseries",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Thai Film",
+     "image": "https://dookeela.live/uploads/1706539896.png",
+     "url": "https://dookeela.live/live-tv/truethaifilm",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True X-Zyte",
+     "image": "https://dookeela.live/uploads/1719206155.png",
+     "url": "https://dookeela.live/live-tv/truex-zyte",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "tvN MOVIES",
+     "image": "https://dookeela.live/uploads/1714100840.png",
+     "url": "https://dookeela.live/live-tv/tvn-movies",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "ROCK Action",
+     "image": "https://dookeela.live/uploads/1718690264.png",
+     "url": "https://dookeela.live/live-tv/rock-action",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ROCK ENTERTAINMENT",
+     "image": "https://dookeela.live/uploads/1718690283.png",
+     "url": "https://dookeela.live/live-tv/rock-entertainment",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Warner TV",
+     "image": "https://dookeela.live/uploads/1703832225.png",
+     "url": "https://dookeela.live/live-tv/warnertv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+
+
+
+
+
+
+{
+name:"3BB Asian",
+image:"https://drive.google.com/uc?id=1wBZV01RTRORrPiSQfqWVLCiUlX3s8su3",
+url:"https://dookeela.live/live-tv/3bbasian",
+"referer":"https://dookeela.live", "info":"dookeela","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
+
+
+
+
+{"name": "Kpop TV","image": "https://drive.google.com/uc?id=1nd-VtFq69XrZcMNVQzSoZ4IZ-F6eteHP","url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", "referer": "","playInNatPlayer": "true"},
+
+
+{"name": "New Kpop","image": "https://drive.google.com/uc?id=1kQhERYzZvGZ2mTOdGZdmRR0JBDCLrZPL","url": "https://jmp2.uk/sam-USAJ3000013FJ.m3u8", "referer": "","playInNatPlayer": "true"},
+
+
+
+{"name":"RETRO MUSIC",image:"https://drive.google.com/uc?id=1XcJfaSnOVnoFTJqNhQBGzQTqEDA8ewdn","url": "http://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+
+
+{"name":"SPIRIT",image:"https://drive.google.com/uc?id=1BiCZTi9mxFWcPIwFuPLRAO3L54jN9N3r","url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name":"V2 BEAT",image:"https://drive.google.com/uc?id=1pPMnGCiUcXmI3wk09MUpNpAoG_qCLMLc"
+,"url": "https://abr.de1se01.v2beat.live/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name":"MTV LIVE",image:"https://drive.google.com/uc?id=1ntmolU5q2ravyJihZuTRiCjeJuWoLek4","url": "https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name":"MTV U",image:"https://drive.google.com/uc?id=1BAOlclE9tbM0W0YHugAXDu_EQkLjpg0H","url": "https://fl2.moveonjoy.com/MTV_U/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "TRACE Latina","image": "https://drive.google.com/uc?id=1-_EFec5mMcwZqWrH6w61KD5APsi3-Qnq","url": "https://www.distro.tv/live/trace-latina/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Trace Urban","image": "https://drive.google.com/uc?id=1qUUNhKvmPWo1zYarQ4Vj9ZqGHNe2BPBS","url": "https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb543d1c7f6c648c9bd43d61cef043a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7455db80148b61299bce8c37683f03409a5e5afba358b1ebe15d4dd16ea7b24f55932e13b39f43c8814aa6d1d75a9d5e8f23f6129d92a6d98645d48ff32993758ac7e95a581fada83bfbfd55b7d39668379803472c7c74d5d3587ad35efc23624ff1feb1cf0d5ae0ccfb4faf6f39af08994d91228329de6103124cd2cfea8d382b17abca4f6926a2f0b283b15259d837aaf2b98d213ef1826537490a0c04876018e96f793986b369af9669e9957a14398fb344959ab98ce48a402bf62ae7c8ee91314e4f2c514cd61deaad64d52dd26fbb8e3d151c1c14e3ca0e84b1d050663614c69808805a5b98cb9b8fda393ec84b124ea7358a0c4b3f9a742457cd19d4b6702c852f0180751afe5b3e8f0bbc9b24e7a8d6e0496ae7898912b13fa1e54ae1f704a87f351657e0a5620c133e08ba8451043e7dcc52f7939bb1056e2ed8b79cae8e0342445371750384e5eb75e1fee3210f19cc56662d34271e9800d97ecc422e242bda15c7a3197ee75e743587475e84efaa40ae9d5da6015319fdcdb38e53c644ce74ea/85/640x360_1020800/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Retro Rock","image": "https://drive.google.com/uc?id=1dsN0aT_LU34qA4BeAMt3wrJMTy4vcT2p","url": "https://jmp2.uk/sam-USBD3000145P.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Latino","image": "https://drive.google.com/uc?id=1XqE-r5zGErEvvmyCiMrB93r7w0plIMXC","url": "https://jmp2.uk/sam-USBC3600015GF.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Hip-Hop","image": "https://drive.google.com/uc?id=17JXP9rvKDqzZz110CT_H3cC1Ec6g6NAq","url": "https://jmp2.uk/sam-USBC3600002EK.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo R&B","image": "https://drive.google.com/uc?id=1fKo_myN3Nuxr6eNE6Aj9hbZl32NCLFxt","url": "https://jmp2.uk/sam-USBC3900009K5.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Country","image": "https://drive.google.com/uc?id=1dXdtcZkx5lRCVA3BCuRBTq_5ozg65WXN","url": "https://jmp2.uk/sam-USBC3600001RQ.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Pop","image": "https://drive.google.com/uc?id=1NDIqhXnNH0MRQTwrz7bvRnjII0oEt3NM","url": "https://jmp2.uk/sam-USBC3600008WY.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "Vevo Features","image": "https://drive.google.com/uc?id=1FM7xn_GmMtMh_sM95flUvggDu1m61dV-","url": "https://jmp2.uk/sam-USBD1200008GL.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+    
+
+
+}]
+
+}
