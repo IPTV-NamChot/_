@@ -1,20 +1,13 @@
-{"name": "รวมละครไทย",
-"info": "Watch Lakorn ที่สุดของคนรักละคร",
-"image": "https://s.isanook.com/mv/0/ud/31/159675/1200x720_01.png",
-"url":"https://drive.google.com/uc?id=16mIu3eOB77dhtKiBLCBPDQisEBSPB9Fs",
- "groups": [
+{
+"name": "#รวมละครไทย#",
+"author": "รวมละครไทย.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
+"image": "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-ละครไทย.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-Stream-!/รวมละครไทย.wHUB",
+"groups":
+[{ 
 
-
-
-
-
-
-
-
-
-
-
-{ "name": "หมุนเวลาตาย [ออกอากาศ]", "info": "ดูฟรี! ห้ามจำหน่าย!!!", "image": "https://cdn.watchlakorn.in/storage/images/av-1729900343.jpg", 
+"name": "หมุนเวลาตาย [ออกอากาศ]", "info": "ดูฟรี! ห้ามจำหน่าย!!!", "image": "https://cdn.watchlakorn.in/storage/images/av-1729900343.jpg", 
 "stations": [ 
 
 { "name": " ตอนที่ 1 ", "info": " วันที่ 25 ตุลาคม 2567 HD", "image": "https://cdn.watchlakorn.in/storage/images/av-1729900343.jpg", "url": "https://www.watchlakorn.in/egdeny/4d2a706e6fdb032822a46665ae7ced65/aGQ=/master.m3u8", "referer": "https://www.watchlakorn.in/" }, 
