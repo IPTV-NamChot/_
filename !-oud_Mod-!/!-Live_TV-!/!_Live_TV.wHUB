@@ -6,7 +6,6 @@
 "groups":
 [{
 
-
 "name": "#ช่องฟรีทีวี#",
 "image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องฟรีทีวี.wHUB",
@@ -40,6 +39,12 @@
 "name": "#ช่องทีวีต่างประเทศ#",			
 "image":"https://drive.google.com/uc?id=1RQ8jvZvj_Gcw8_xAme9SsdV4L-qS2eaw",	
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องทีวีต่างประเทศ.wHUB",
+"import": "false"
+},{
+"name": "รวมช่อง@📺Legal IPTV📺",
+"image": "https://iili.io/23SA3jj.jpg",
+"url": "http://tiny.cc/LEGALIPTV",
+#==ORG: #==LINK-Free@📺Legal IPTV📺 "url": "https://bit.ly/Alllist555"
 "import": "false"
 },{
 "name": "รวมช่อง@URL:Dookeela.live",
