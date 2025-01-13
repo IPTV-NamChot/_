@@ -9,12 +9,12 @@
 [{
 
 
-"name": "ทีวีต่างประเทศ",			
+"name": "@Gojek TV",			
 "image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
 "url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
 "import": "False"
 },{
-"name": "ทั่วโลกฟรี",
+"name": "@URL:iptv-org.github",
 "image":"https://aei.u-pec.fr/medias/photo/langues-vivantes-etrangeres-1200-800_1645104803888-jpg?ID_FICHE=241470",
 "url" : "https://iptv-org.github.io/iptv/index.country.m3u",
 #==ORG: #==LINK-Free@ทั่วโลกฟรี "url": "https://bit.ly/Alllist555"
