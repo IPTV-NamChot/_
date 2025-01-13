@@ -6,6 +6,11 @@
 "groups": 
 [{
 
+"name": "#ห้องอัพเดทรายวัน#",
+"image": "https://img2.pic.in.th/pic/Photoroom-20241028_042116.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ห้องอัพเดทรายวัน.wHUB",
+"import": "false"
+},{
 "name": "#การ์ตูน&Anime#",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/Anime.wHUB",
@@ -60,11 +65,6 @@
 "name": " 24-HD ",
 "image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
 "url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
-"import": "false"
-},{
-"name": "#ห้องอัพเดทรายวัน#",
-"image": "https://img2.pic.in.th/pic/Photoroom-20241028_042116.png",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ห้องอัพเดทรายวัน.wHUB",
 "import": "false"
 },{
 "name": "#DooWiseplay#",
