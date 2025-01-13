@@ -7,14 +7,19 @@
 "groups":
 [{
 
-"name": "กีฬา(PinkTV)",
+"name": "@PinkTV",
 "image": "https://drive.google.com/uc?id=107ud8gxQo17tBw2ZJqPI4Trls9DNgC38",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องกีฬา/PinkTV@ช่องกีฬา.wHUB",
 "import": "false"
 },{
-"name": "กีฬา(Gojek TV)",			
+"name": "@Gojek TV",			
 "image": "https://img5.pic.in.th/file/secure-sv1/sportv3.png",		
 "url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",	
+"import": "false"
+},{  
+"name": "@DooWiseplay",
+"image":"https://www.i-pic.info/i/fANz872506.png",
+"url":"https://drive.google.com/uc?id=1opbi9Bf3606gIGQoJ4vgbRxI9ll7JTtz",
 "import": "false"
 }]
 
