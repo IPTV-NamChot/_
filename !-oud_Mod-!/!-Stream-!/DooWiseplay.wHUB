@@ -11,10 +11,9 @@
 "name": "Dooseries4k.com",
 "image":"https://www.i-pic.info/i/yru4872500.png",
 "url":"https://drive.google.com/uc?id=109ybqpGIvKVNo1n7UvKcZmweG7-nmbPU",
-"import": false},  
-
-
-{"name": "DE88.me",
+"import": "false"
+},{  
+"name": "DE88.me",
 "image":"https://www.i-pic.info/i/jhXJ872502.png",
 "url":"https://drive.google.com/uc?id=1ol6UuFW5ok-Qb8qFl49-7fHt0doMkjag",
 "import": "false"
@@ -38,11 +37,6 @@
 "image":"https://www.i-pic.info/i/fReQ872504.png",
 "url":"https://drive.google.com/uc?id=1ovj6G1bUL3jtXbht7J4q163upSEnlp5_",
 "import": "false"
-},{  
-"name": "",
-"image":"https://www.i-pic.info/i/0WAK872507.png",
-"url":"https://drive.google.com/uc?id=11en4UuQm5DhyPdAhvw9Ar6AdT6fkC-XD",
-"import": "False"
 }]
 
 }
