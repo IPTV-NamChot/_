@@ -1,0 +1,44 @@
+{
+"name":"Anime-Indy@Oung-Oung",
+"author": "!_Anime-Indy_Oung-Oung.wHUB@IPTV-NamChot",
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"groups":
+[{
+
+"name":"🦭รวม🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_anime_.w3u",
+"import": "false"
+},{
+"name":"🦭2023🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_2023_.w3u",
+"import": "false"
+},{
+"name":"🦭พากย์ไทย🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_thai_.w3u",
+"import": "false"
+},{
+"name":"🦭ซับไทย🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_sub-th_.w3u",
+"import": "false"
+},{
+"name":"🦭จบแล้ว🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_จบแล้ว_.w3u",
+"import": "false"
+},{
+"name":"🦭ยังไม่จบ🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_ยังไม่จบ_.w3u",
+"import": "false"
+},{
+"name":"🦭เดอะมูฟวี่🐒", 
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_themovie_.w3u",
+"import": "false"
+}]
+
+}
