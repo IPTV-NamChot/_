@@ -1,6 +1,6 @@
 {
 "name": "การ์ตูน&Anime",
-"author": "!_Anime.wHUB@IPTV-NamChot",
+"author": "Anime.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
 #== "url":"https://drive.google.com/uc?id=1hkQzIsThL1j-p601TPpushk5rZGTKLQz",
@@ -130,6 +130,11 @@
 		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-indy_themovie_.w3u",
 		"import": "false"
 		}]
+	},{
+	"name": "Anime-Indy@DooWiseplay",
+	"image":"https://www.i-pic.info/i/61FM901628.png",
+	"url":"https://drive.google.com/uc?id=141DJDvH-K85xBbz24-wrg8z6zq3mXAuc",
+	"import": false
 	}]
 },{
 "name": "Anime-Moji",
