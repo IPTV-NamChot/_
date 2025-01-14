@@ -2,42 +2,42 @@
 "name": "🎬Live TV",
 "author": "!_Live_TV.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
-"image": "https://drive.google.com/uc?id=1tGWICVxq2AnVWWs4uEDQx9ZnwucHalQ-",
+"image": "https://drive.google.com/uc?id=1tGWICVxq2AnVWWs4uEDQx9ZnwucHalQ-&export=download",
 "groups":
 [{
 
 "name": "🎬ช่องฟรีทีวี",
-"image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
+"image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องฟรีทีวี.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องสำหรับเด็ก",
-"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun",
+"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องสำหรับเด็ก.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องความบันเทิง",
-"image": "https://drive.google.com/uc?id=1-zUDfzf3ISm_-kXshuIa-UMUdv7BZ2hz",
+"image": "https://drive.google.com/uc?id=1-zUDfzf3ISm_-kXshuIa-UMUdv7BZ2hz&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องความบันเทิง.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องกีฬา",
-"image": "https://drive.google.com/uc?id=107ud8gxQo17tBw2ZJqPI4Trls9DNgC38",
+"image": "https://drive.google.com/uc?id=107ud8gxQo17tBw2ZJqPI4Trls9DNgC38&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องกีฬา.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องสารคดี",
-"image": "https://drive.google.com/uc?id=1-s_1U7PJgEhgLMqD_Ieuy9hlD4tay4Zg",
+"image": "https://drive.google.com/uc?id=1-s_1U7PJgEhgLMqD_Ieuy9hlD4tay4Zg&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องสารคดี.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องข่าวต่างประเทศ",
-"image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m",
+"image": "https://drive.google.com/uc?id=100gesH6l4cAdZS5Xia93gu40uCYJDu2m&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องข่าวต่างประเทศ.wHUB",
 "import": "false"
 },{
 "name": "🎬ช่องทีวีต่างประเทศ",			
-"image":"https://drive.google.com/uc?id=1RQ8jvZvj_Gcw8_xAme9SsdV4L-qS2eaw",	
+"image":"https://drive.google.com/uc?id=1RQ8jvZvj_Gcw8_xAme9SsdV4L-qS2eaw&export=download",	
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องทีวีต่างประเทศ.wHUB",
 "import": "false"
 },{

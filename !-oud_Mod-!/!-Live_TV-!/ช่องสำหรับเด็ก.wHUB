@@ -1,8 +1,8 @@
 {
-"name": "ช่องสำหรับเด็ก",
+"name": "🎬ช่องสำหรับเด็ก",
 "author": "ช่องสำหรับเด็ก.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Live_TV-!" ==#
-"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun",
+"image": "https://drive.google.com/uc?id=1-r7uF4acQbE0gr2zPCuSQuORLkQevyun&export=download",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live_TV-!/ช่องสำหรับเด็ก.wHUB",
 "groups":
 [{
@@ -15,6 +15,11 @@
 "name": "@Gojek TV",			
 "image": "https://img2.pic.in.th/pic/Carv3.png",		
 "url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",	
+"import": "false"
+},{
+"name": "@แบ่งปัน",
+"image": "https://png.pngitem.com/pimgs/s/474-4746224_anime-word-clip-art-hd-png-download.png",
+"url": "https://drive.google.com/uc?id=1cI8OGTBZ6mWBrXvQZ5l8xfDyu3t5-VOL"
 "import": "false"
 }]
 
