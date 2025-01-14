@@ -1,22 +1,22 @@
 {
-"name": "Stream หนัง&ซีรี่ย์",
+"name": "🎬Stream IPTV",
 "author": "!_Stream.wHUB@IPTV-NamChot",
 #== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
 "image": "https://drive.google.com/uc?id=1tMSbX_3M6rW4Gte405ES40Q0thQ4bIHm",
 "groups": 
 [{
 
-"name": "#ห้องอัพเดทรายวัน#",
+"name": "🎬ห้องอัพเดทรายวัน",
 "image": "https://img2.pic.in.th/pic/Photoroom-20241028_042116.png",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ห้องอัพเดทรายวัน.wHUB",
 "import": "false"
 },{
-"name": "#การ์ตูน&Anime#",
+"name": "🎬การ์ตูน&Anime",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/Anime.wHUB",
 "import": "false"
 },{
-"name": "#ละครไทย#",
+"name": "🎬ละครไทย",
 "image": "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-ละครไทย.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ละครไทย.wHUB",
 #==ORG: "https://drive.google.com/uc?id=16mIu3eOB77dhtKiBLCBPDQisEBSPB9Fs" [PinkTV@ละคร&หนัง&ซีรีย์]
@@ -67,7 +67,7 @@
 "url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
 "import": "false"
 },{
-"name": "#DooWiseplay#",
+"name": "🎬DooWiseplay",
 "image": "https://www.i-pic.info/i/pEN6872501.png",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/DooWiseplay.wHUB",
 "import":"false"
