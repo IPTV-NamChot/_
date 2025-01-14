@@ -1,0 +1,47 @@
+{
+"name": "🎬ผู้เฒ่าพเนจร", 
+"author": "ผู้เฒ่าพเนจร.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
+"image": "https://www.dropbox.com/scl/fi/uduydomqnktg1n67lndc9/250.png?rlkey=a3h8y0a8t4zqsr54ym94amx9p&dl=1",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ผู้เฒ่าพเนจร.wHUB", 
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Stream-! :: "https://drive.google.com/uc?id=1S3JSkQlr5svqHB7FC0jgqq43xc0XFR_J" 
+"groups":
+[{
+
+"name": "Nung2HD",
+"image": "https://www.dropbox.com/scl/fi/b19yjimybavynnabfxr0g/movies-by-nung2hd.png?rlkey=7j2xjviqd9u6hzndn8pqcbpea&dl=1",
+"url": "https://wandering-oldman.github.io/movies-by-nung2hd/nung2hd.html",
+"import": "false"
+},{
+"name": "24 HD",
+"image": "https://www.dropbox.com/scl/fi/b19yjimybavynnabfxr0g/movies-by-nung2hd.png?rlkey=7j2xjviqd9u6hzndn8pqcbpea&dl=1",
+"url": "https://udzaa2238.github.io/movies-by-24HD/24-HD-Page1.html",
+"import": "false"
+},{
+"name": "123HD",
+"image": "https://www.dropbox.com/scl/fi/8wr2oxtacqok6zc4gtfe9/123hd.png?rlkey=yfrvre15ju4pyrnh4thlzkocm&dl=1",
+"url": "https://udzaa2238.github.io/movies-by-123HD/123HD-Page1.html",
+"import": "false"
+},{
+"name": "Dooseries4K",
+"image": "https://www.dropbox.com/scl/fi/httx0gno3rpicdxeecrqm/Dooseries4K.png?rlkey=ymzp12tbvq9lbhhysfbafl25p&dl=1",
+"url": "https://wandering-oldman.github.io/movies-by-dooseries4k/Dooseries4K-Page1.html",
+"import": "false"
+},{
+"name": "Seriesday",
+"image": "https://www.dropbox.com/scl/fi/akuxwc674twokqk1dcpfl/seriesday.png?rlkey=303im2j7zvb68ftfrejc2dem2&dl=1",
+"url": "https://udzaa2238.github.io/seriesday/mainpage-movies-by-seriesday.html",
+"import": "false"
+},{
+"name": "Movies & Series",
+"image": "https://www.dropbox.com/scl/fi/kmb4gj3n2vh8sd64x8xs2/series.png?rlkey=4czmy534jx3duoyyfz9qvbnxr&dl=1",
+"url": "https://wandering-oldman.github.io/movies-series38/movies-series38.html",
+"import": "false"
+},{
+"name": "Series by Wacthlakorn",
+"image": "https://www.dropbox.com/scl/fi/itqgchowdlg3vkjuvex5x/250-Watchlakorn.png?rlkey=xxeirjmwqcagf7i7uu363t7z3&dl=1",
+"url": "https://wandering-oldman.github.io/wacthlakorn/watchlakorn.html",
+"import": "false"
+}]
+
+}
