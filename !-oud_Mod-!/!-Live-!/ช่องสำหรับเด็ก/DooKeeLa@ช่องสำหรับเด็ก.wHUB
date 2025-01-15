@@ -1,10 +1,10 @@
 {
-"name": "🎬PinkTV@ช่องสำหรับเด็ก",
-"author": "PinkTV@ช่องสำหรับเด็ก.wHUB@IPTV-NamChot",
-#== "!-GitHub-!\!-oud_Mod-!\!-Live-!" ==#
-"image": "https://drive.google.com/uc?id=1W-lK_U_48dSsKc_WuLjBHKIiS_7NWv-G",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสำหรับเด็ก/PinkTV@ช่องสำหรับเด็ก.wHUB",
-#==ORG: "https://bit.ly/PinkTV"
+"name": "🎬DooKeeLa@ช่องสำหรับเด็ก",
+"author": "DooKeeLa@ช่องสำหรับเด็ก.wHUB@IPTV-NamChot",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสำหรับเด็ก/DooKeeLa@ช่องสำหรับเด็ก.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องสำหรับเด็ก :: "https://drive.google.com/uc?id=1TzCbob_daAeruZ-D0aVqrNLGc8ZSKfmu" 
+#==ORG: #==Relaxing@🍀DooKeeLa[PL] "url": "https://drive.google.com/uc?id=1CeuK9KsweA1lXu-neH6-wyRr5PEI_4Yj"
 "stations":
 [{
 
@@ -29,9 +29,9 @@
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
-     "name": "Cartoon Club HD",
-     "image": "https://dookeela.live/uploads/1705504043.png",
-     "url": "https://dookeela.live/live-tv/cartoonclub",
+     "name": "CBeebies",
+     "image": "https://dookeela.live/uploads/1709573298.png",
+     "url": "https://dookeela.live/live-tv/cbeebies",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
@@ -39,20 +39,6 @@
      "name": "Cartoon Network",
      "image": "https://dookeela.live/uploads/1708344243.png",
      "url": "https://dookeela.live/live-tv/cartoon-network",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "cartoonito",
-     "image": "https://dookeela.live/uploads/1704039063.png",
-     "url": "https://dookeela.live/live-tv/cartoonito",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "CBeebies",
-     "image": "https://dookeela.live/uploads/1709573298.png",
-     "url": "https://dookeela.live/live-tv/cbeebies",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
@@ -77,18 +63,11 @@
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-{
+    {
      "name": "DreamWorks",
      "image": "https://dookeela.live/uploads/1723200736.png",
      "url": "https://dookeela.live/live-tv/dreamworks",
      "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "FWTOON",
-     "image": "https://drive.google.com/uc?id=1dT1Mj4V4tXE3QxgrKnqD6hTrR3OyfUoe",
-     "url": "https://www.inwiptv.com/player_demo.php?channel=89780",
-     "referer": "https://www.inwiptv.com/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
@@ -113,14 +92,6 @@
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
-     "name": "nicktoons | Germany",
-     "image": "https://dookeela.live/uploads/1713282303.png",
-     "url": "https://dookeela.live/live-tv/nicktoons",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
-{
      "name": "PBS KIDS",
      "image": "https://dookeela.live/uploads/1730064747.png",
      "url": "https://dookeela.live/live-tv/pbskids",
@@ -131,6 +102,20 @@
      "name": "True Spark Play",
      "image": "https://dookeela.live/uploads/1720723541.png",
      "url": "https://dookeela.live/live-tv/truesparkplay",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "cartoonito",
+     "image": "https://dookeela.live/uploads/1704039063.png",
+     "url": "https://dookeela.live/live-tv/cartoonito",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "nicktoons | Germany",
+     "image": "https://dookeela.live/uploads/1713282303.png",
+     "url": "https://dookeela.live/live-tv/nicktoons",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 

@@ -1,10 +1,10 @@
 {
-"name": "🎬PinkTV@ช่องสารคดี",
-"author": "PinkTV@ช่องสารคดี.wHUB@IPTV-NamChot",
-#== "!-GitHub-!\!-oud_Mod-!\!-Live-!" ==#
-"image": "https://drive.google.com/uc?id=1yN8643ZSGqfhmAZ8cI7FP1yLcpNVRIDP",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสารคดี/PinkTV@ช่องสารคดี.wHUB",
-#==ORG: "https://bit.ly/PinkTV"
+"name": "🎬DooKeeLa@ช่องสารคดี",
+"author": "DooKeeLa@ช่องสารคดี.wHUB@IPTV-NamChot",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสารคดี/DooKeeLa@ช่องสารคดี.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องสารคดี :: "https://drive.google.com/uc?id=1U876hNLyCBf3ALOUSD8zbMkNM-qSxQIw" 
+#==ORG: #==Relaxing@🍀DooKeeLa[PL] "url": "https://drive.google.com/uc?id=1CeuK9KsweA1lXu-neH6-wyRr5PEI_4Yj"
 "stations":
 [{
 
@@ -21,26 +21,9 @@
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-
-{
-     "name": "Asian Food Network",
-     "image": "https://dookeela.live/uploads/1717696078.png",
-     "url": "https://dookeela.live/live-tv/afn",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
     {
-     "name": "BBC Lifestyle",
-     "image": "https://dookeela.live/uploads/1727766790.png",
-     "url": "https://dookeela.live/live-tv/bbc-lifestyle",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    
-    {
-     "name": "BBC EARTH",
-     "image": "https://dookeela.live/uploads/1714101191.png",
+     "name": "BBC Earth",
+     "image": "https://dookeela.live/uploads/1736064117.png",
      "url": "https://dookeela.live/live-tv/bbc-earth",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
@@ -49,6 +32,13 @@
      "name": "Crime + Investigation",
      "image": "https://dookeela.live/uploads/1714101661.png",
      "url": "https://dookeela.live/live-tv/crime-investigation",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "DMAX",
+     "image": "https://dookeela.live/uploads/1714101765.png",
+     "url": "https://dookeela.live/live-tv/dmax",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
@@ -67,29 +57,6 @@
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
-     "name": "DMAX",
-     "image": "https://dookeela.live/uploads/1714101765.png",
-     "url": "https://dookeela.live/live-tv/dmax",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
-{
-     "name": "Food Network",
-     "image": "https://dookeela.live/uploads/1717696062.png",
-     "url": "https://dookeela.live/live-tv/foodnetwork",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "FWDOC",
-     "image": "https://drive.google.com/uc?id=1jUmCFrT9YvgBVkIxH5JyDNdIuno8ePOU",
-     "url": "https://inwiptv.com/player_demo.php?channel=91303",
-     "referer": "https://www.inwiptv.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
-    {
      "name": "History",
      "image": "https://dookeela.live/uploads/1713231372.png",
      "url": "https://dookeela.live/live-tv/history",
@@ -98,9 +65,9 @@
     },
     {
      "name": "Love Nature 4K",
-     "image": "https://dookeela.live/uploads/1713508633.png",
-     "url": "https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8",
-     "referer": "https://www.indihometv.com",
+     "image": "https://dookeela.live/uploads/1729286214.png",
+     "url": "https://dookeela.live/live-tv/lovenature4k",
+     "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
@@ -124,21 +91,28 @@
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-{
+    {
+     "name": "RT Documentary",
+     "image": "https://dookeela.live/uploads/1731890461.png",
+     "url": "https://dookeela.live/live-tv/rt-documentary",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
      "name": "True Explore Life",
      "image": "https://dookeela.live/uploads/1724166670.png",
      "url": "https://dookeela.live/live-tv/trueexplorelife",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-{
+    {
      "name": "True Explore Sci",
      "image": "https://dookeela.live/uploads/1724167268.png",
      "url": "https://dookeela.live/live-tv/trueexploresci",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-{
+    {
      "name": "True Explore Wild",
      "image": "https://dookeela.live/uploads/1724166218.png",
      "url": "https://dookeela.live/live-tv/trueexplorewild",
