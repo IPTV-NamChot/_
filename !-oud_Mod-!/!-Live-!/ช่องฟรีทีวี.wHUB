@@ -1,0 +1,46 @@
+{
+"name": "ช่องฟรีทีวี",
+"author": "ช่องฟรีทีวี.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Live-!" ==#
+"image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี.wHUB",
+"groups":
+[{
+
+"name": "ᵇʸ PinkTV",
+"image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/PinkTV@ช่องฟรีทีวี.wHUB",
+"import": "false"
+},{
+"name": "ᵇʸ OTT.m3u",
+"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
+"url": "https://drive.google.com/uc?id=120QyRwq6mChfMAXF-35IY3wJNFOId8KN",
+"import": "false"
+},{
+"name": "ᵇʸ INWIPTV",
+"image": "https://drive.google.com/uc?id=1qUX9Fj5vAHuMR5I6dTip8IvwDMKroOyV",
+"url": "https://drive.google.com/uc?id=12ZNtaY_zUiIEKO3_vhXmilwlFfhSuqQD",
+"import": "false"
+},{
+"name": "ᵇʸ AkKraDet",
+"image": "https://www.piccolo-tv.com/assets/img/blog/blog-7.jpg",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
+"import": "false"
+},{
+"name": "ᵇʸ Gojek TV",			
+"image": "https://img2.pic.in.th/pic/digiv3.png",		
+"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
+"import": "false"
+},{
+"name": "ᵇʸ DTV-Free",
+"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
+"url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
+"import": "false"
+},{
+"name": "ᵇʸ DTV-รวม",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSajd_NJFXDg7hVwhd4vOfyE-1p1p69fANO8g&usqp=CAU",
+"url":"https://drive.google.com/uc?id=1-QEoeX5MsS1XnZ_N9jFmVvM8Ecp6TSfj",
+"import":"false"
+}]
+
+}

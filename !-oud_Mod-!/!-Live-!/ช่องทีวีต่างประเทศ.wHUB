@@ -1,0 +1,24 @@
+{
+"name": "#ช่องทีวีต่างประเทศ#",
+"author": "ช่องทีวีต่างประเทศ.wHUB@IPTV-NamChot",
+#== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
+"image": "https://www.i-pic.info/i/0WAK872507.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องทีวีต่างประเทศ.wHUB",	
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Stream-! :: "https://drive.google.com/uc?id=1RPvSa9a5lRMDkqtjF4n00sOZ1067HCbd" 
+"groups":
+[{
+
+
+"name": "ᵇʸ Gojek TV",			
+"image": "https://img5.pic.in.th/file/secure-sv1/InterV3.png",		
+"url": "https://drive.google.com/uc?id=1b7YDmAmoR7cJvxif4tU_XTlJr1fzpxM5",	
+"import": "False"
+},{
+"name": "ᵇʸ URL:iptv-org.github",
+"image":"https://aei.u-pec.fr/medias/photo/langues-vivantes-etrangeres-1200-800_1645104803888-jpg?ID_FICHE=241470",
+"url" : "https://iptv-org.github.io/iptv/index.country.m3u",
+#==ORG: #==LINK-Free@ทั่วโลกฟรี "url": "https://bit.ly/Alllist555"
+"import": "false"
+}]
+
+}
