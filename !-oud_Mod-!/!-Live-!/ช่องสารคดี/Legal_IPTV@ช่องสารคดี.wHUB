@@ -1,13 +1,41 @@
 {
-"name": "🎬PinkTV",
-"author": "PinkTV@ช่องสารคดี.wHUB@IPTV-NamChot",
-#== "!-GitHub-!\!-oud_Mod-!\!-Live-!" ==#
-"image": "https://drive.google.com/uc?id=1yN8643ZSGqfhmAZ8cI7FP1yLcpNVRIDP",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสารคดี/PinkTV@ช่องสารคดี.wHUB",
-#==ORG: "https://bit.ly/PinkTV"
+"name": "🎬Legal_IPTV",
+"author": "Legal_IPTV@ช่องสารคดี.wHUB@IPTV-NamChot",
+"image": "https://iili.io/2CLf02S.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องสารคดี/Legal_IPTV@ช่องสารคดี.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องสารคดี :: "https://drive.google.com/uc?id=1ToSU7M-_ThtKHPxi1_DQw1Fre-YPoSw4" 
+#==ORG: Legal_IPTV "url": "http://tiny.cc/LEGALIPTV"
 "stations":
 [{
 
+     "name": "TED",
+     "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2011/09/TEDLogo.png",
+     "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=B57X_rrHy_w5ue6p2DLh",
+"info": "ช่อง TED Talk",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "Asian Food Network",
+     "image": "https://dookeela.live/uploads/1717696078.png",
+     "url": "https://dookeela.live/live-tv/afn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "Food Network",
+     "image": "https://dookeela.live/uploads/1717696062.png",
+     "url": "https://dookeela.live/live-tv/foodnetwork",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "BBC Lifestyle",
+     "image": "https://dookeela.live/uploads/1727766790.png",
+     "url": "https://dookeela.live/live-tv/bbc-lifestyle",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
      "name": "Animal Planet",
      "image": "https://dookeela.live/uploads/1706112700.png",
      "url": "https://dookeela.live/live-tv/animal-planet",
@@ -21,23 +49,54 @@
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-
-{
-     "name": "Asian Food Network",
-     "image": "https://dookeela.live/uploads/1717696078.png",
-     "url": "https://dookeela.live/live-tv/afn",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
     {
-     "name": "BBC Lifestyle",
-     "image": "https://dookeela.live/uploads/1727766790.png",
-     "url": "https://dookeela.live/live-tv/bbc-lifestyle",
-     "referer": "https://dookeela.live/",
+    "name": "Pet Club TV",
+    "image": "https://iili.io/2N2xdcG.jpg",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "userAgent": "ExoPlayer"
+    },
+ {
+     "name": "5-Minute Crafts",
+     "image": "https://upload.wikimedia.org/wikipedia/en/9/96/5-Minute_Crafts_logo.jpg",
+     "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=m7lnogxu72g7ns88yrzc088i&X-Plex-Product=Plex%20Web&X-Plex-Version=4.142.2&X-Plex-Client-Identifier=mvqnf14wvec6bf8d63cmtg9q&X-Plex-Platform=Chrome&X-Plex-Platform-Version=131.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x997%2C1924x1003&X-Plex-Token=ZEhz-k1px--wWesasD9C&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=cbee2ccd-326a-4ec6-824f-cbc5b556c7c1&X-Plex-Playback-Session-Id=7f2cf150-70a0-4a4c-800b-eed627f32462",
+"info": "ช่อง DIY",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-    
+ {
+     "name": "FashionTV",
+     "image": "https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM",
+     "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?X-Plex-Session-Identifier=m7lnogxu72g7ns88yrzc088i&X-Plex-Product=Plex%20Web&X-Plex-Version=4.142.2&X-Plex-Client-Identifier=mvqnf14wvec6bf8d63cmtg9q&X-Plex-Platform=Chrome&X-Plex-Platform-Version=131.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x997%2C1924x1003&X-Plex-Token=ZEhz-k1px--wWesasD9C&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=cbee2ccd-326a-4ec6-824f-cbc5b556c7c1&X-Plex-Playback-Session-Id=28ff4f6f-bb40-412e-8237-f718e2630d42",
+     "referer": "https://plex.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "WORLD FISHING NETWORK",
+     "image": "https://www.i-pic.info/i/VoBT927906.png",
+     "url": "http://supkartt.xyz:80/live/Rogi007/95WXXSR/71975.m3u8",
+     "referer": "https://supkartt.xyz/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "JUST.FISHING",
+     "image": "https://www.i-pic.info/i/Ysz9927915.png",
+     "url": "http://supkartt.xyz:80/live/Rogi007/95WXXSR/363442.m3u8",
+     "referer": "https://supkartt.xyz/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "Darcizzle Offshore",
+     "image": "https://www.i-pic.info/i/PlE9924941.png",
+     "url": "https://30a-tv.com/darcizzle.m3u8",
+     "referer": "https://30a-tv.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "RightNow TV",
+     "image": "https://i.imgur.com/OxbIla4.png",
+     "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+     "referer": "https://klowdtv.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
     {
      "name": "BBC EARTH",
      "image": "https://dookeela.live/uploads/1714101191.png",
@@ -73,22 +132,6 @@
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-
-{
-     "name": "Food Network",
-     "image": "https://dookeela.live/uploads/1717696062.png",
-     "url": "https://dookeela.live/live-tv/foodnetwork",
-     "referer": "https://dookeela.live/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "FWDOC",
-     "image": "https://drive.google.com/uc?id=1jUmCFrT9YvgBVkIxH5JyDNdIuno8ePOU",
-     "url": "https://inwiptv.com/player_demo.php?channel=91303",
-     "referer": "https://www.inwiptv.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-
     {
      "name": "History",
      "image": "https://dookeela.live/uploads/1713231372.png",
@@ -99,8 +142,8 @@
     {
      "name": "Love Nature 4K",
      "image": "https://dookeela.live/uploads/1713508633.png",
-     "url": "https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8",
-     "referer": "https://www.indihometv.com",
+     "url": "https://dookeela.live/live-tv/love-nature-4k",
+     "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
     {
@@ -151,7 +194,6 @@
      "url": "https://dookeela.live/live-tv/samrujlok",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-
 
 }]
 

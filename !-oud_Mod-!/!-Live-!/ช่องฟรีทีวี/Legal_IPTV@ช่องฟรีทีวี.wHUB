@@ -1,0 +1,165 @@
+{
+"name": "🎬Legal_IPTV",
+"author": "Legal_IPTV@ช่องฟรีทีวี.wHUB@IPTV-NamChot",
+"image": "https://iili.io/2TYMyua.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/Legal_IPTV@ช่องฟรีทีวี.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องฟรีทีวี :: "https://drive.google.com/uc?id=1TuHBUmV3wGxUXHqkgnTJk2hdhx5pOwP7" 
+#==ORG: Legal_IPTV "url": "http://tiny.cc/LEGALIPTV"
+"stations":
+[{
+
+     "name": "ช่อง 3 HD",
+     "image": "https://dookeela.live/uploads/1685812254.png",
+     "url": "https://dookeela.live/live-tv/ch3hd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง 5 HD",
+     "image": "https://dookeela.live/uploads/1664574997.png",
+     "url": "https://dookeela.live/live-tv/ch5hd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง 7 HD",
+     "image": "https://dookeela.live/uploads/1688059473.png",
+     "url": "https://dookeela.live/live-tv/ch7hd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง MCOT HD",
+     "image": "https://dookeela.live/uploads/1671966260.png",
+     "url": "https://dookeela.live/live-tv/mcothd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "ช่อง NBT 2 HD",
+     "image": "https://dookeela.live/uploads/1725895790.png",
+     "url": "https://dookeela.live/live-tv/nbt2hd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "ช่อง Thai PBS HD",
+     "image": "https://dookeela.live/uploads/1725895931.png",
+     "url": "https://dookeela.live/live-tv/thaipbs",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "ช่อง ALTV4",
+     "image": "https://dookeela.live/uploads/1725896083.png",
+     "url": "https://dookeela.live/live-tv/altv4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+"name": "T Sports 7",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd16rom88SaQ3__GPVg-ncss4Dd-4lNGeDZg&s",
+"url": "https://www.tsports7.com/live",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Thai Parliament TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_of_Thai_Parliament_Radio_and_Television_2021.jpg/600px-Logo_of_Thai_Parliament_Radio_and_Television_2021.jpg",
+"url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+     "name": "ช่อง NBT 11",
+     "image": "https://yt3.googleusercontent.com/ytc/AIdro_mtyWuD3YrtZSvORvi4qnYNpKkTo1nIVkU52HIT1bcrUAA=s900-c-k-c0x00ffffff-no-rj",
+     "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8",
+     "referer": "https://ott.prd.go.th/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "ช่อง TNN",
+     "image": "https://dookeela.live/uploads/1725896332.png",
+     "url": "https://dookeela.live/live-tv/tnn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "ช่อง JKN 18",
+     "image": "https://dookeela.live/uploads/1725896425.png",
+     "url": "https://dookeela.live/live-tv/jkn18",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "ช่อง Workpoint TV",
+     "image": "https://dookeela.live/uploads/1725896683.png",
+     "url": "https://dookeela.live/live-tv/workpointtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "ช่อง True 4 U",
+     "image": "https://dookeela.live/uploads/1725896844.png",
+     "url": "https://dookeela.live/live-tv/true4u",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "ช่อง Nation TV",
+     "image": "https://dookeela.live/uploads/1725896561.png",
+     "url": "https://dookeela.live/live-tv/nationtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+ {
+     "name": "ช่อง GMM25",
+     "image": "https://dookeela.live/uploads/1725896937.png",
+     "url": "https://dookeela.live/live-tv/gmm25",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง CH8",
+     "image": "https://dookeela.live/uploads/1704117313.png",
+     "url": "https://dookeela.live/live-tv/ch8",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+  {
+     "name": "ช่อง MONO29",
+     "image": "https://dookeela.live/uploads/1703787713.png",
+     "url": "https://dookeela.live/live-tv/mono29",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง One31",
+     "image": "https://dookeela.live/uploads/1683394005.png",
+     "url": "https://dookeela.live/live-tv/one31",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+
+    {
+     "name": "ช่อง ไทยรัฐทีวี HD",
+     "image": "https://dookeela.live/uploads/1686800227.png",
+     "url": "https://dookeela.live/live-tv/thairathtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+   {
+     "name": "ช่อง AmarinTV HD",
+     "image": "https://dookeela.live/uploads/1704117706.png",
+     "url": "https://dookeela.live/live-tv/amarintv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ช่อง PPTV HD",
+     "image": "https://dookeela.live/uploads/1664499074.png",
+     "url": "https://dookeela.live/live-tv/pptv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+
+}]
+
+}
