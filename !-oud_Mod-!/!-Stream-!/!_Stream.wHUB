@@ -4,6 +4,7 @@
 #== "!-GitHub-!\!-oud_Mod-!\!-Stream-!" ==#
 "image": "https://drive.google.com/uc?id=1tMSbX_3M6rW4Gte405ES40Q0thQ4bIHm&export=download",
 #==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Stream-! :: "https://drive.google.com/uc?id=1whqzGJnZYcTB3zY6blb1P_2x7OhwGXnG" 
+"url": "https://drive.google.com/uc?id=1whqzGJnZYcTB3zY6blb1P_2x7OhwGXnG",
 "groups": 
 [{
 
@@ -17,6 +18,24 @@
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/Anime.wHUB",
 "import": "false"
 },{
+
+
+
+"name": "🎬บันเทิง",
+"image": "https://image.winudf.com/v2/image/Y29tLmxha3Jvbi5oZC5hcHBfaWNvbl8wX2Q1YmIyYzY0/icon.png?w=184&fakeurl=1",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/บันเทิง.wHUB",
+#==ORG: LINK-Free@🍀watchlakorn.in[PL]🍀 "url": "https://drive.google.com/uc?id=1HBVVnvjbMnCtMMn3BdCqKZvXEULvOnmV"
+"import": "false"
+},{
+"name": "🎬ข่าว",
+"image": "https://image.winudf.com/v2/image/Y29tLmxha3Jvbi5oZC5hcHBfaWNvbl8wX2Q1YmIyYzY0/icon.png?w=184&fakeurl=1",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ข่าว.wHUB",
+#==ORG: LINK-Free@🍀watchlakorn.in[PL]🍀 "url": "https://drive.google.com/uc?id=1HBVVnvjbMnCtMMn3BdCqKZvXEULvOnmV"
+"import": "false"
+},{
+
+
+
 "name": "🎬ละครไทย",
 "image": "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-ละครไทย.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Stream-!/ละครไทย.wHUB",
