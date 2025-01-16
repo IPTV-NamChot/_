@@ -1,0 +1,76 @@
+{
+"name": "🎬BIG_TV@ช่องข่าวต่างประเทศ",
+"author": "BIG_TV@ช่องข่าวต่างประเทศ.wHUBᵇʸ IPTV-NamChot",
+"image": "https://drive.google.com/uc?id=1UygTwt3Hykb_DbYPT8UYcYj_F7GmzrvP&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องข่าวต่างประเทศ/BIG_TV@ช่องข่าวต่างประเทศ.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องข่าวต่างประเทศ :: "https://drive.google.com/uc?id=1Uwuy9HeAs77c5-Lyez4GjDHwQxsttK3O" 
+#==ORG: BIG_TV "url": "https://pastebin.com/raw/1praLiNG"
+"stations":
+[{
+
+"name": "Al Jazeera English HD",
+"image": "https://dookeela.live/uploads/1730731551.png",
+"url": "https://dookeela.live/live-tv/al-jazeera-english-hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "Al Jazeera English HD"
+},{
+"name": "BBC News",
+"image": "https://dookeela.live/uploads/1705785324.png",
+"url": "https://dookeela.live/live-tv/bbc-news",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "BBC News"
+},{
+"name": "Bloomberg Television",
+"image": "https://dookeela.live/uploads/1705785346.png",
+"url": "https://dookeela.live/live-tv/bloomberg-television",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "Bloomberg Television"
+},{
+"name": "CCTV4",
+"image": "https://dookeela.live/uploads/1705785371.png",
+"url": "https://dookeela.live/live-tv/cctv4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "CCTV4"
+},{
+"name": "CGTN",
+"image": "https://dookeela.live/uploads/1730731019.png",
+"url": "https://dookeela.live/live-tv/cgtn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "CGTN"
+},{
+"name": "CNA",
+"image": "https://dookeela.live/uploads/1730731242.png",
+"url": "https://dookeela.live/live-tv/cna",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "CNA"
+},{
+"name": "CNBC",
+"image": "https://dookeela.live/uploads/1719802797.png",
+"url": "https://dookeela.live/live-tv/cnbc",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "CNBC"
+},{
+"name": "CNN",
+"image": "https://dookeela.live/uploads/1705785357.png",
+"url": "https://dookeela.live/live-tv/cnn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "CNN"
+},{
+"name": "Sky Sports News | UK",
+"image": "https://dookeela.live/uploads/1715648168.png",
+"url": "https://dookeela.live/live-tv/skysportsnews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "Sky Sports News | UK"
+
+}]
+
+}
