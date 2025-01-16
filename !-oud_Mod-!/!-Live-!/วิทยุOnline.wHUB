@@ -1,0 +1,21 @@
+{
+"name": "🎬วิทยุOnline",
+"author": "วิทยุOnline.wHUBᵇʸ IPTV-NamChot",
+"image": "https://www.i-pic.info/i/PKql317058.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/วิทยุOnline.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-! :: "https://drive.google.com/uc?id=1UdYZnz5ANyAOHLTl0Jg3XlpOKaUHO7vw" 
+"groups":
+[{
+
+"name": "ᵇʸ Gojek TV",			
+"image": "https://img2.pic.in.th/pic/RadioV3.png",		
+"url": "https://drive.google.com/uc?id=1c7sp_wQnWFXgiZrpHhqz5KHbghoTz_xq",	
+"import": "false"
+},{
+"name": "ᵇʸ XTEMUS TV",
+"image": "https://www.i-pic.info/i/PKql317058.png",
+"url": "https://playlist.xtemus.com/index.php?playlist=t256y454t4156423"
+"import": "false"
+}]
+
+}
