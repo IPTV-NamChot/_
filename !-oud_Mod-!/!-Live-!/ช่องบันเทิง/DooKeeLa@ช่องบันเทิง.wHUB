@@ -1,0 +1,426 @@
+{
+"name": "🎬DooKeeLa@ช่องบันเทิง",
+"author": "DooKeeLa@ช่องบันเทิง.wHUBᵇʸ IPTV-NamChot",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องบันเทิง/DooKeeLa@ช่องบันเทิง.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-!\ช่องบันเทิง :: "https://drive.google.com/uc?id=1TzBK7snDmCyhDE6dFl4pXTGRw8OCQ47E" 
+#==ORG: #==Relaxing@🍀DooKeeLa[PL] "url": "https://drive.google.com/uc?id=1CeuK9KsweA1lXu-neH6-wyRr5PEI_4Yj"
+"stations":
+[{
+
+     "name": "3BB Asian",
+     "image": "https://dookeela.live/uploads/1703829940.png",
+     "url": "https://dookeela.live/live-tv/3bbasian",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ALTV4",
+     "image": "https://dookeela.live/uploads/1725896083.png",
+     "url": "https://dookeela.live/live-tv/altv4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "AMC | USA",
+     "image": "https://dookeela.live/uploads/1716339097.png",
+     "url": "https://dookeela.live/live-tv/amc",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "AXN HD",
+     "image": "https://dookeela.live/uploads/1719897010.png",
+     "url": "https://dookeela.live/live-tv/axn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Alure Channel",
+     "image": "https://dookeela.live/uploads/1731057748.png",
+     "url": "https://dookeela.live/live-tv/alure-channel",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "AmarinTV HD",
+     "image": "https://dookeela.live/uploads/1704117706.png",
+     "url": "https://dookeela.live/live-tv/amarintv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Asian Food Network",
+     "image": "https://dookeela.live/uploads/1717696078.png",
+     "url": "https://dookeela.live/live-tv/afn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "BBC Lifestyle",
+     "image": "https://dookeela.live/uploads/1727766790.png",
+     "url": "https://dookeela.live/live-tv/bbc-lifestyle",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "CCM",
+     "image": "https://dookeela.live/uploads/1719803240.png",
+     "url": "https://dookeela.live/live-tv/ccm",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "CH8",
+     "image": "https://dookeela.live/uploads/1704117313.png",
+     "url": "https://dookeela.live/live-tv/ch8",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "CINEMAX",
+     "image": "https://dookeela.live/uploads/1703786799.png",
+     "url": "https://dookeela.live/live-tv/cinemax",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "DAZN F1 (Spain)",
+     "image": "https://dookeela.live/uploads/1696279327.png",
+     "url": "https://dookeela.live/live-tv/daznf1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Fashion TV",
+     "image": "https://dookeela.live/uploads/1731888593.png",
+     "url": "https://dookeela.live/live-tv/fashiontv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Food Network",
+     "image": "https://dookeela.live/uploads/1717696062.png",
+     "url": "https://dookeela.live/live-tv/foodnetwork",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "GMM25",
+     "image": "https://dookeela.live/uploads/1725896937.png",
+     "url": "https://dookeela.live/live-tv/gmm25",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO",
+     "image": "https://dookeela.live/uploads/1703686191.png",
+     "url": "https://dookeela.live/live-tv/hbo",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Family",
+     "image": "https://dookeela.live/uploads/1703786776.png",
+     "url": "https://dookeela.live/live-tv/hbo-family",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Hits",
+     "image": "https://dookeela.live/uploads/1703786599.png",
+     "url": "https://dookeela.live/live-tv/hbo-hits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HBO Signature",
+     "image": "https://dookeela.live/uploads/1703786305.png",
+     "url": "https://dookeela.live/live-tv/hbo-signature",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HITS",
+     "image": "https://dookeela.live/uploads/1706112791.png",
+     "url": "https://dookeela.live/live-tv/hits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HITS MOVIES",
+     "image": "https://dookeela.live/uploads/1714100677.png",
+     "url": "https://dookeela.live/live-tv/hits-movies",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HITS NOW",
+     "image": "https://dookeela.live/uploads/1733772007.png",
+     "url": "https://dookeela.live/live-tv/hitsnow",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "JKN 18",
+     "image": "https://dookeela.live/uploads/1725896425.png",
+     "url": "https://dookeela.live/live-tv/jkn18",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "KBS Korea",
+     "image": "https://dookeela.live/uploads/1725961079.png",
+     "url": "https://dookeela.live/live-tv/kbskorea",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "KBS World HD",
+     "image": "https://dookeela.live/uploads/1719897483.png",
+     "url": "https://dookeela.live/live-tv/kbsworld",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Lifetime",
+     "image": "https://dookeela.live/uploads/1720781589.png",
+     "url": "https://dookeela.live/live-tv/lifetime",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MONO29 (โมโน 29)",
+     "image": "https://dookeela.live/uploads/1703787713.png",
+     "url": "https://dookeela.live/live-tv/mono29",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MONO29 Plus",
+     "image": "https://dookeela.live/uploads/1703787733.png",
+     "url": "https://dookeela.live/live-tv/mono29plus",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MTV",
+     "image": "https://dookeela.live/uploads/1721687257.png",
+     "url": "https://dookeela.live/live-tv/mtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Moodeng NOW",
+     "image": "https://dookeela.live/uploads/1731671306.png",
+     "url": "https://dookeela.live/live-tv/moodengnow",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "NBT 2 HD",
+     "image": "https://dookeela.live/uploads/1725895790.png",
+     "url": "https://dookeela.live/live-tv/nbt2hd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Nation TV",
+     "image": "https://dookeela.live/uploads/1725896561.png",
+     "url": "https://dookeela.live/live-tv/nationtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Paramount Network",
+     "image": "https://dookeela.live/uploads/1706112779.png",
+     "url": "https://dookeela.live/live-tv/paramount-network",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ROCK Action",
+     "image": "https://dookeela.live/uploads/1718690264.png",
+     "url": "https://dookeela.live/live-tv/rock-action",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ROCK ENTERTAINMENT",
+     "image": "https://dookeela.live/uploads/1718690283.png",
+     "url": "https://dookeela.live/live-tv/rock-entertainment",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "STARZ ENCORE | USA",
+     "image": "https://dookeela.live/uploads/1705582013.png",
+     "url": "https://dookeela.live/live-tv/starz-encore",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Sony Movies",
+     "image": "https://dookeela.live/uploads/1730064952.png",
+     "url": "https://dookeela.live/live-tv/sonymovies",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TLC",
+     "image": "https://dookeela.live/uploads/1717696038.png",
+     "url": "https://dookeela.live/live-tv/tlc",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TNN",
+     "image": "https://dookeela.live/uploads/1725896332.png",
+     "url": "https://dookeela.live/live-tv/tnn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TV4 Fotboll (Sweden)",
+     "image": "https://dookeela.live/uploads/1695936059.png",
+     "url": "https://dookeela.live/live-tv/tv4fotboll",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TVB CLASSIC HD",
+     "image": "https://dookeela.live/uploads/1719898154.png",
+     "url": "https://dookeela.live/live-tv/tvbclassichd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Thai PBS",
+     "image": "https://dookeela.live/uploads/1725895931.png",
+     "url": "https://dookeela.live/live-tv/thaipbs",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True 4 U",
+     "image": "https://dookeela.live/uploads/1725896844.png",
+     "url": "https://dookeela.live/live-tv/true4u",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Asian More",
+     "image": "https://dookeela.live/uploads/1719205850.png",
+     "url": "https://dookeela.live/live-tv/trueasianmore",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film 1",
+     "image": "https://dookeela.live/uploads/1720380229.png",
+     "url": "https://dookeela.live/live-tv/truefilm1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film 2",
+     "image": "https://dookeela.live/uploads/1720723122.png",
+     "url": "https://dookeela.live/live-tv/truefilm2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Film Asia",
+     "image": "https://dookeela.live/uploads/1719205705.png",
+     "url": "https://dookeela.live/live-tv/truefilmasia",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Movie Hits",
+     "image": "https://dookeela.live/uploads/1719803882.png",
+     "url": "https://dookeela.live/live-tv/truemoviehits",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Series",
+     "image": "https://dookeela.live/uploads/1719205991.png",
+     "url": "https://dookeela.live/live-tv/trueseries",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Thai Film",
+     "image": "https://dookeela.live/uploads/1706539896.png",
+     "url": "https://dookeela.live/live-tv/truethaifilm",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True X-Zyte",
+     "image": "https://dookeela.live/uploads/1719206155.png",
+     "url": "https://dookeela.live/live-tv/truex-zyte",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Warner TV",
+     "image": "https://dookeela.live/uploads/1703832225.png",
+     "url": "https://dookeela.live/live-tv/warnertv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Workpoint TV",
+     "image": "https://dookeela.live/uploads/1725896683.png",
+     "url": "https://dookeela.live/live-tv/workpointtv",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "iQIYI",
+     "image": "https://dookeela.live/uploads/1706405008.png",
+     "url": "https://dookeela.live/live-tv/iqiyi",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "tvN MOVIES",
+     "image": "https://dookeela.live/uploads/1714100840.png",
+     "url": "https://dookeela.live/live-tv/tvn-movies",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "tvN | Indonesia",
+     "image": "https://dookeela.live/uploads/1703833429.png",
+     "url": "https://dookeela.live/live-tv/tvn-indonesia",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "บีอินสปอตส์ 1 (617)",
+     "image": "https://dookeela.live/uploads/1726690688.png",
+     "url": "https://dookeela.live/live-tv/bein1_617",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "บีอินสปอตส์ 1 (AIS)",
+     "image": "https://dookeela.live/uploads/1724849525.png",
+     "url": "https://dookeela.live/live-tv/bein1_ais",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "มังกร",
+     "image": "https://dookeela.live/uploads/1705503765.png",
+     "url": "https://dookeela.live/live-tv/mangorn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+
+
+}]
+
+}
