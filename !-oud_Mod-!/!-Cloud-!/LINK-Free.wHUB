@@ -8,11 +8,6 @@
 "groups":
 [{
 
-"name": "🍀22-HD[PL]",
-"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
-"url": "https://drive.google.com/uc?id=15qONxhFQ64RLhcROyayYXxi6MiJeH-b7",
-"import": "false"
-},{
 "name": "🍀123-hd[PL]",
 "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 "url": "http://tiny.cc/5411001",
@@ -53,6 +48,12 @@
 "url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
 #==ORG: #==LINK-Free@ดูหนังฟรี "url": "https://bit.ly/Alllist555"
 "import": "false"
+},{
+"name": "🍀22-HD[PL]",
+"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
+"url": "https://drive.google.com/uc?id=15qONxhFQ64RLhcROyayYXxi6MiJeH-b7",
+"import": "false"
+
 }]
 
 }
