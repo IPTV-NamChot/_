@@ -1,0 +1,22 @@
+{
+"name": "🎬ช่องเพลง",
+"author": "ช่องเพลง.wHUBᵇʸ IPTV-NamChot",
+"image": "https://res.cloudinary.com/tint-world/image/upload/tw-uploads/templates/av-hero.png",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องเพลง.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Live-! :: "https://drive.google.com/uc?id=1VBT5_M204ON94X90ZaEUM0YfQuvbZCWH" 
+"groups":
+[{
+
+"name": "ᵇʸ UdomTV",
+"image": "https://res.cloudinary.com/tint-world/image/upload/tw-uploads/templates/av-hero.png",
+"url": "https://drive.google.com/uc?export=download&id=1Sa4mXuQSJefY6TAQaudlm0b-z9rnvSYs",
+#==ORG : 🍁LINK-Free🍁@UdomTV📺 :: "https://drive.google.com/uc?export=download&id=1Pi3vd3xSImt4eUAB4Qb482lOJrLHUvgy"
+"import": false
+},{
+"name": "ᵇʸ Gojek TV",			
+"image": "https://img2.pic.in.th/pic/MusicV3x.png",		
+"url": "https://drive.google.com/uc?id=10K6tyFMYzr8Iv4n9S0-uoiihfrulki-M",	
+"import": "false"
+}]
+
+}
