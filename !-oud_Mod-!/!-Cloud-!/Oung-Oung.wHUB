@@ -1477,47 +1477,47 @@
 "name": "Seriesday",
 "author": "อุ๋ง อุ๋ง จะดู",
 "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "groups":
 [{
 "name": "ซีรี่ย์",
 "author": "อุ๋ง อุ๋ง จะดู",
 "info": "โอกาสเกิดขึ้นเองไม่ได้ แต่คุณต่างหากที่สร้างมันขึ้นมา",
-"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "groups":
 	[{
 	"name": "TOP IMDb", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_top-imdb.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ 2024", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "http://tiny.cc/srd-24",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ใหม่ 2023", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ใหม่-2023.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ใหม่ 2022", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ใหม่-2022.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์พากย์ไทย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์พากย์ไทย.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ซับไทย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ซับไทย.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์วาย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์วาย.w3u",
 	"import": "false"
 	}]
@@ -1525,51 +1525,51 @@
 "name": "แยกตามแอพ",
 "author": "อุ๋ง อุ๋ง จะดู",
 "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "groups":
 	[{
 	"name": "NETFLIX", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_netflix.w3u",
 	"import": "false"
 	},{
 	"name": "IQIYI", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_iqiyi.w3u",
 	"import": "false"
 	},{
 	"name": "WETV", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_wetv.w3u",
 	"import": "false"
 	},{
 	"name": "VIU", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_viu.w3u",
 	"import": "false"
 	},{
 	"name": "HBO", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_hbo.w3u",
 	"import": "false"
 	},{
 	"name": "APPLE TV", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_apple-tv.w3u",
 	"import": "false"
 	},{
 	"name": "DISNEY+", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_disney-plus.w3u",
 	"import": "false"
 	},{
 	"name": "AMAZON PRIME", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_amazon-prime-video.w3u",
 	"import": "false"
 	},{
 	"name": "YOUKU", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_youku.w3u",
 	"import": "false"
 	}]
@@ -1577,41 +1577,41 @@
 "name": "แยกตามประเทศ",
 "author": "อุ๋ง อุ๋ง จะดู",
 "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "groups":
 	[{
 	"name": "ซีรี่ย์ไทย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ไทย.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ฝรั่ง", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ฝรั่ง.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์จีน", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์จีน.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์เกาหลี", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์เกาหลี.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ญี่ปุ่น", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์ญี่ปุ่น.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์เอเชีย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์เอเชีย.w3u",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์อินเดีย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ซีรี่ย์อินเดีย.w3u",
 	"import": "false"
 	}]
@@ -1619,101 +1619,101 @@
 "name": "แยกตามประเภท",
 "author": "อุ๋ง อุ๋ง จะดู",
 "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "groups":
 	[{
 	"name": "แอคชั่น", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_แอคชั่น-action.w3u",
 	"import": "false"
 	},{
 	"name": "ผจญภัย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ผจญภัย-adventure.w3u",
 	"import": "false"
 	},{
 	"name": "แฟนตาซี", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_แฟนตาซี-fantasy.w3u",
 	"import": "false"
 	},{
 	"name": "ดราม่า", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ดราม่า-drama.w3u",
 	"import": "false"
 	},{
 	"name": "ตลก", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ตลก-comedy.w3u",
 	"import": "false"
 	},{
 	"name": "อาชญากรรม", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_อาชญากรรม-crime.w3u",
 	"import": "false"
 	},{
 	"name": "วิทยาศาสตร์", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_วิทยาศาสตร์-sci-fi.w3u",
 	"import": "false"
 	},{
 	"name": "ลึกลับซ่อนเงื่อน", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ลึกลับซ่อนเงื่อน-mystery.w3u",
 	"import": "false"
 	},{
 	"name": "แอนนิเมชั่น", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_แอนนิเมชั่น-animation.w3u",
 	"import": "false"
 	},{
 	"name": "สยองขวัญ", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_สยองขวัญ-horror.w3u",
 	"import": "false"
 	},{
 	"name": "สงคราม", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_สงคราม-war.w3u",
 	"import": "false"
 	},{
 	"name": "โรแมนติก", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_โรแมนติก-romance.w3u",
 	"import": "false"
 	},{
 	"name": "ระทึกขวัญ", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ระทึกขวัญ-thriller.w3u",
 	"import": "false"
 	},{
 	"name": "คาวบอย", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_คาวบอย-western.w3u",
 	"import": "false"
 	},{
 	"name": "กีฬา", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_sport.w3u",
 	"import": "false"
 	},{
 	"name": "ครอบครัว", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_family.w3u",
 	"import": "false"
 	},{
 	"name": "ชีวิตจริง", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_ชีวิตจริง-biography.w3u",
 	"import": "false"
 	},{
 	"name": "เพลงดนตรี", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_เพลงดนตรี-musical.w3u",
 	"import": "false"
 	},{
 	"name": "สารคดี", 
-	"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/seriesday_สารคดี-documentary.w3u",
 	"import": "false"
 	}]
