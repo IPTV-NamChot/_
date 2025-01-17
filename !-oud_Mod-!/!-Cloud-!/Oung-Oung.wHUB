@@ -1333,7 +1333,6 @@
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_4-india-movie.w3u",
 	"import": "false"
 	}]
-
 },{
 "name": "แยกตามหมวดหมู่",
 "author": "อุ๋ง อุ๋ง จะดู",
@@ -1543,22 +1542,6 @@
 	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_16-Thriller.w3u",
 	"import": "false"
 	}]
-}]
-
-},{
-"name": "22-hd",
-"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
-"groups":
-[{
-"name": "Home",
-"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/22-hd_.w3u",
-"import": "false"
-},{
-"name": "หนังใหม่ 2024",
-"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/22-hd_movies-2024.w3u",
-"import": "false"
 }]
 
 },{
@@ -2307,6 +2290,22 @@
 "image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
 "url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/ezmovie_หนังผจญภัย-adventure.w3u",
 "import":"false"
+}]
+
+},{
+"name": "22-hd",
+"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
+"groups":
+[{
+"name": "Home",
+"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
+"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/22-hd_.w3u",
+"import": "false"
+},{
+"name": "หนังใหม่ 2024",
+"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
+"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/22-hd_movies-2024.w3u",
+"import": "false"
 }]
 }]
 
