@@ -28,11 +28,6 @@
 "url": "http://tiny.cc/b211001",
 "import": "false"
 },{
-"name": "🍀series-full[PL]",
-"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
-"url": "https://drive.google.com/uc?id=1VMSQ14cvbz9E4J0byGazpu7w4wcdXqlS",
-"import": "false"
-},{
 "name": "🍀tvallseries[PL]",
 "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
 "url": "http://tiny.cc/m211001",
@@ -41,6 +36,11 @@
 "name": "🍀Dooseries4K[PL]",
 "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
 "url": "http://tiny.cc/t211001",
+"import": "false"
+},{
+"name": "🍀series-full[PL]",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url": "https://drive.google.com/uc?id=1VMSQ14cvbz9E4J0byGazpu7w4wcdXqlS",
 "import": "false"
 },{
 "name": "🍀24-HD[PL]",
