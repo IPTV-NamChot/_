@@ -7,12 +7,6 @@
 "groups":
 [{
 
-
-"name": "🎬PinkTV",
-"image": "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-ละครไทย.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Cloud-!/ละครไทย/ละครไทย@PinkTV.wHUB",
-"import": "false"
-},{
 "name": "ᵇʸ UdomTV",
 "image": "https://drive.google.com/uc?id=1VCCzhK_aduM3yJumkszImxXQxbpnX4n5&export=download",
 "url": "https://drive.google.com/uc?id=16mIu3eOB77dhtKiBLCBPDQisEBSPB9Fs",
@@ -36,6 +30,11 @@
 	"import": "false"
 
 	}]
+},{
+"name": "🎬PinkTV",
+"image": "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-ละครไทย.jpg",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Cloud-!/ละครไทย/ละครไทย@PinkTV.wHUB",
+"import": "false"
 }]
 
 }
