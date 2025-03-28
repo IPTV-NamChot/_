@@ -32,6 +32,21 @@
 	"url":"https://series-indy.com/",
 	"referer":"https://series-indy.com/","embed": "true"
 	},{
+	"name": "Movie2UFree",
+	"image": "https://i.postimg.cc/MTc2GdD3/m2f.jpg",
+	"url": "https://movie2ufree.com/",
+	"referer": "https://movie2ufree.com/","embed": "true"
+	},{
+	"name": "MoviesDooFree",
+	"image": "https://i.postimg.cc/C1M0hW0Z/MDF.jpg",
+	"url": "https://moviesdoofree.com/",
+	"referer": "https://moviesdoofree.com/","embed": "true"
+	},{
+	"name": "Series-Full",
+	"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+	"url":"https://series-full.com/",
+	"referer":"https://series-full.com/","embed": "true"
+	},{
 	"name": "Movie24",
 	"image": "https://i.postimg.cc/7YksdtRb/movie24.jpg",
 	"url": "https://movie24.tv/",
@@ -52,25 +67,11 @@
 	"url": "https://movie285.com/",
 	"referer": "https://movie285.com/","embed": "true"
 	},{
-	"name": "Movie2UFree",
-	"image": "https://i.postimg.cc/MTc2GdD3/m2f.jpg",
-	"url": "https://movie2ufree.com/",
-	"referer": "https://movie2ufree.com/","embed": "true"
-	},{
 	"name":"2UMV",
 	"image":"https://2umv.com/images/2umv-logo.webp",
 	"url":"https://2umv.com/",
 	"referer":"https://2umv.com/","embed": "true"
-	},{
-	"name": "MoviesDooFree",
-	"image": "https://i.postimg.cc/C1M0hW0Z/MDF.jpg",
-	"url": "https://moviesdoofree.com/",
-	"referer": "https://moviesdoofree.com/","embed": "true"
-	},{
-	"name": "#Series-Full#",
-	"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
-	"url":"https://series-full.com/",
-	"referer":"https://series-full.com/","embed": "true"
+
 	},{
 	"name": "DooKeeLa",
 	"image": "https://dookeela.live/images/logo-bar.png",
