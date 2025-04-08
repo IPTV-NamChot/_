@@ -9,18 +9,32 @@
 
 "name": "ภาพยนตร์",
 "image": "https://st3.depositphotos.com/11433382/14401/i/380/depositphotos_144011369-stock-photo-popcorn-and-movie-clapper-board.jpg",
-"url": "https://dl.dropboxusercontent.com/s/el73iheigk822i79s51g9/123-hd_-2024.w3u?rlkey=agqdfd2gpplm4sgsz1zu3y6f5&dl=0",
+"url": "https://dl.dropboxusercontent.com/s/4zv69zpzua9w8xesj7gjx/123-hd_-2024.w3u.txt?rlkey=4lw5shit3zoty45b2zk4fdz6p&st=cyxfyfmc&dl=499",
+"info": "https://bit.ly/42gN6D1",
 "import": "false"
 },{
 "name": "ซีรีย์จบแล้ว",
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
 "url": "https://docs.google.com/uc?export=download&id=1V_sjLsy0vlPgbb-uX4upIX5lY4gIlGXN",
-"import": "false"
+"groups":
+	[{
+	"name": "series 2025",
+	"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
+	"url": "https://dl.dropboxusercontent.com/s/pzfxr48vu5ztyqj7sta1j/2025.w3u?rlkey=gfs1fs9w8f4htu1ng8aiw208s&st=ii1ezr4w&dl=4",
+	"info": "https://bit.ly/3FL2Czg",
+	"import":"False"
+	},{
+	"name": "series 2024 - 00",
+	"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
+ 	"url": "https://dl.dropboxusercontent.com/s/oj0ed1rko2gjbol5yhmgf/2024.w3u?rlkey=4rqtl5rnd60ww3xhusbd5bhj2&st=ahu79eiz&dl=4",
+	"info": "https://bit.ly/4i51qEE",
+	"import":"False"
+	}]
 },{
 "name": "ซีรีย์OnAir",
 "image": "https://img2.pic.in.th/pic/1000064106.png",
-"author": "เพื่อความบันเทิงส่วนตัวเท่านั้น ไม่ได้ทำเพื่อการค้า", 
-"url": "https://docs.google.com/uc?export=download&id=1FDAX12VkswJuzEIIpjNcyshlJT9Z00Q0",
+"url": "https://dl.dropboxusercontent.com/s/z4ja9hh7imerbknbo9tbi/.w3u?rlkey=6yn3j4e1zpa5wqpu2dte09h8o&st=c7mse4t3&dl=4",
+"info":"https://bit.ly/3FJrTKc",
 "import": "false"
 }]
 
