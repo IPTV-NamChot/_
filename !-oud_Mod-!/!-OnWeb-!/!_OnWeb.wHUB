@@ -17,6 +17,26 @@
 	"url" : "https://www.123-hd.com/",
 	"referer" : "https://www.123-hd.com/","embed" : "true"
 	},{
+	"name" : "Kseries",
+	"image" : "https://kserietv.co/wp-content/uploads/2023/10/kserietvphoto.png",
+	"url" : "https://kserietv.co/",
+	"referer" : "https://kserietv.co/","embed" : "true"
+	},{
+	"name" : "OverMovies",
+	"image" : "https://www.overmovies.com/wp-content/uploads/2020/08/over-1.png",
+	"url" : "https://www.overmovies.com/",
+	"referer" : "https://www.overmovies.com/","embed" : "true"
+	},{
+	"name" : "4u2movie",
+	"image" : "https://4u2movie.com/wp-content/uploads/2023/09/4U2movie-9.png",
+	"url" : "https://4u2movie.com/",
+	"referer" : "https://4u2movie.com/","embed" : "true"
+	},{
+	"name" : "SeriesDet",
+	"image" : "https://seriesdet.com/wp-content/uploads/2024/02/2024-02-13_02h41_48.jpg",
+	"url" : "https://seriesdet.com/",
+	"referer" : "https://seriesdet.com/","embed" : "true"
+	},{
 	"name" : "NEWHD",
 	"image": "https://www.new-hd.com/wp-content/uploads/2024/01/NEWHDLOGO.png.webp",
 	"url" : "https://www.new-hd.com/",
