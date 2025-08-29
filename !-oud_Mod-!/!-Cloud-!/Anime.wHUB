@@ -142,34 +142,34 @@
 "image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
 	"groups":
 	[{
-	"name": "Anime-Moji",
+	"name": "ᵇʸ Anime-Moji",
 	"image": "https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-	#=ORG : "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
+	#=ORG : "https://tinyurl.com/2rf8rzxe",
 	"groups":
 		[{
-		"name": "[หน้าแรก]",
-		"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1BRbr2bcKGFCwKyT3gmFzgUf9Ff5stTBq",
+		"name": "🐲 ซับไทย",
+		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1veLqhr8Mk3PgSO2fjORpkZihHJBpMo-P",
 		"import": false
 		},{
-		"name": "[พากย์ไทย]",
-		"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1zSyYcYxTzeQgzPaUAnA5-Cyl9l3LdXCp",
+		"name": "🐲 พากย์ไทย",
+		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1Lce5IxiDul91VYMiFc5YDkUnAU02gJyJ",
 		"import": false
 		},{
-		"name": "[จีน]",
-		"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=17NF-BfUo7fWcc_KjJg8P5_37pbbRPEFk",
+		"name": "🐲 China",
+		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1AEce_Qi5Xr1Fv80VAAtpoHdx13Gdk23E",
 		"import": false
 		},{
-		"name": "[ซับไทย]",
-		"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=17PnDuKGfy0L_Gb7n1xd53P8tsc0zQ-Lb",
+		"name": "🐲 ยังไม่จบ",
+		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1C_G6OYg0AUJb-XAI9ptWGyA0YdSueFvZ",
 		"import": false
 		},{
-		"name": "[Movies]",
-		"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=19BF7e0YCNqQZql54SEeeXC1SdFFNuofW",
+		"name": "🐲 จบแล้ว",
+		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1BbZsa_jbU7fNdb5IvUkXvHvTokwc0LGE",
 		"import": false
 		}]
 	},{
