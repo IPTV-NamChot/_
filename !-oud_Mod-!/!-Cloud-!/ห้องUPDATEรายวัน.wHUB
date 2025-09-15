@@ -17,22 +17,25 @@
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
 "groups":
 	[{
+	"name": "series 2026",
+	"image": "https://img5.pic.in.th/file/secure-sv1/1000025266.png",
+	"url": "https://drive.google.com/uc?id=1OJVekBQKPk433I59mrAfIv0nhXbvFAKx",
+	"import":"False"
+	},{
 	"name": "series 2025",
 	"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
-	"url": "https://dl.dropboxusercontent.com/s/pzfxr48vu5ztyqj7sta1j/2025.w3u?rlkey=gfs1fs9w8f4htu1ng8aiw208s&st=ii1ezr4w&dl=4",
-	"info": "https://bit.ly/3FL2Czg",
+	"url": "https://drive.google.com/uc?id=1M38TE5uqkbgv9OCZQF_tiBFzGH04SPNC",
 	"import":"False"
 	},{
 	"name": "series 2024 - 00",
-	"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp",
- 	"url": "https://dl.dropboxusercontent.com/s/oj0ed1rko2gjbol5yhmgf/2024.w3u?rlkey=4rqtl5rnd60ww3xhusbd5bhj2&st=ahu79eiz&dl=4",
-	"info": "https://bit.ly/4i51qEE",
+	"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.webp", 
+	"url": "https://drive.google.com/uc?id=17ExRafgJ8vHBhIR-d8y2_UAXkZ3XxjB5",
 	"import":"False"
 	}]
 },{
 "name": "ซีรีย์OnAir",
 "image": "https://img2.pic.in.th/pic/1000064106.png",
-"url": "https://dl.dropboxusercontent.com/s/z4ja9hh7imerbknbo9tbi/.w3u?rlkey=6yn3j4e1zpa5wqpu2dte09h8o&st=c7mse4t3&dl=4",
+"url": "https://drive.google.com/uc?id=1aBD-K6ndjyYTastGx_6kbyOFUFaNrCeI",
 "info":"https://bit.ly/3FJrTKc",
 "import": "false"
 }]
