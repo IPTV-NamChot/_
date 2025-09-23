@@ -7,32 +7,25 @@
 "groups":
 [{
 
-"name": "🎬IPTV Society 2025",
-"image": "https://i.postimg.cc/9FRF8SCY/TV.png",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/IPTV_Society.wHUB",
-#==ORG: "https://drive.google.com/uc?id=18S2A4XWSYhefQ_0F6fq79-QxJq3pdVud"
+"name": "ᵇʸ DTV(akkradet)",
+"image": "https://img5.pic.in.th/file/secure-sv1/DTV.jpg",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
 "import": "false"
 },{
-"name": "🎬PinkTV",
-"image": "https://drive.google.com/uc?id=1-tJ_huirp2PwnH_HtnjY4yvlsuJyPlHi",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/PinkTV@ช่องฟรีทีวี.wHUB",
+"name": "ᵇʸ LiveStream",
+"image": "https://img2.pic.in.th/pic/m3uL.jpg",
+"url":"https://tinyurl.com/m8rf86a2",
+"import": "false"
+},{
+"name": "ᵇʸ LiveTV",
+"image": "https://img5.pic.in.th/file/secure-sv1/LIVETV.jpg",
+"url": "https://drive.google.com/uc?id=1PvcY2W6l6mcpslGIbRqBBN-3UG31hSPU",
 "import": "false"
 },{
 "name": "🎬IPTV-Live.m3u",
 "image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/PTV-Live.wHUB",
 #==ORG: "https://tinyurl.com/2pwmt8hz"
-"import": "false"
-},{
-"name": "🎬OTT.m3u",
-"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/OTTShare.wHUB",
-#==ORG: "https://tinyurl.com/m8rf86a2"
-"import": "false"
-},{
-"name": "🎬Legal IPTV",
-"image": "https://iili.io/2TYMyua.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/Legal_IPTV@ช่องฟรีทีวี.wHUB",
 "import": "false"
 },{
 "name": "ᵇʸ UdomTV",
