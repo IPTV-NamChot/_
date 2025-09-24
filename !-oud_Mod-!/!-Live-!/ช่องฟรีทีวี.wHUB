@@ -48,19 +48,9 @@
 "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
 "import": "false"
 },{
-"name": "ᵇʸ Luxdu",
-"image": "https://dl.dropboxusercontent.com/scl/fi/pttnqwotq108d2ooe8p9y/luxDu_dOFREE_digitalTV.png?rlkey=rti1s6bdjnyvzlko0fh41lmul&st=80lw84tj&dl=0",
-"url": "https://dl.dropboxusercontent.com/scl/fi/4doi9ofyfsuz36elxw5ev/Main_DigitalTVluxdo_FREE.txt?rlkey=fnrx3d3m7qsthz07eavjaatjj&st=lpxg464e&dl=0",
-"import": "false"
-},{
 "name": "ᵇʸ Gojek TV",			
 "image": "https://img2.pic.in.th/pic/digiv3.png",		
 "url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",	
-"import": "false"
-},{
-"name": "ᵇʸ DTV-Free",
-"image": "https://i.postimg.cc/6qjDG4cC/DTV2.jpg",
-"url": "https://drive.google.com/uc?id=122J9-VcEABQV93lFsT7MREveAGJJsz5b",
 "import": "false"
 },{
 "name": "ᵇʸ DTV-รวม",
