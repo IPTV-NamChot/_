@@ -7,6 +7,11 @@
 "groups":
 [{
 
+"name": "ᵇʸ LiveTV",
+"image": "https://img5.pic.in.th/file/secure-sv1/LIVETV.jpg",
+"url": "https://drive.google.com/uc?id=1PvcY2W6l6mcpslGIbRqBBN-3UG31hSPU",
+"import": "false"
+},{
 "name": "ᵇʸ DTV(akkradet)",
 "image": "https://img5.pic.in.th/file/secure-sv1/DTV.jpg",
 "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
@@ -15,17 +20,6 @@
 "name": "ᵇʸ LiveStream",
 "image": "https://img2.pic.in.th/pic/m3uL.jpg",
 "url":"https://tinyurl.com/m8rf86a2",
-"import": "false"
-},{
-"name": "ᵇʸ LiveTV",
-"image": "https://img5.pic.in.th/file/secure-sv1/LIVETV.jpg",
-"url": "https://drive.google.com/uc?id=1PvcY2W6l6mcpslGIbRqBBN-3UG31hSPU",
-"import": "false"
-},{
-"name": "🎬IPTV-Live.m3u",
-"image": "https://i.postimg.cc/D0y9ZPr2/IPTV1.jpg",
-"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/ช่องฟรีทีวี/PTV-Live.wHUB",
-#==ORG: "https://tinyurl.com/2pwmt8hz"
 "import": "false"
 },{
 "name": "ᵇʸ UdomTV",
