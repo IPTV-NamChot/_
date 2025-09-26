@@ -75,7 +75,7 @@
 		"import": false
 		},{
 		"name": "[พากย์ไทย]","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-		"url": "https://drive.google.com/uc?id=14DBZ6hiBbIyxmdeV_VEcNLjN9g9louFT",
+		"url": "https://drive.google.com/uc?id=1yzJnuPZmuXl-jvOE4dRG_SF2zJ1X0Gto",
 		"import": false
 		},{
 		"name": "[จีน]","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
@@ -147,30 +147,30 @@
 	#=ORG : "https://tinyurl.com/2rf8rzxe",
 	"groups":
 		[{
-		"name": "🐲 ซับไทย",
-		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1veLqhr8Mk3PgSO2fjORpkZihHJBpMo-P",
-		"import": false
+		"name":" หน้าแรก ",
+		"image": "https://animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1XjPVdoMlUybHJxS8e2wxc29DnzQckshI",
+		"import": "false"
 		},{
-		"name": "🐲 พากย์ไทย",
-		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1Lce5IxiDul91VYMiFc5YDkUnAU02gJyJ",
-		"import": false
+		"name":" อนิเมะพากย์ไทย ",
+		"image": "https://animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1HOxSj9Y1bZ7Wqfy-0MK8EdevFHhLMD7b",
+		"import": "false"
 		},{
-		"name": "🐲 China",
-		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1AEce_Qi5Xr1Fv80VAAtpoHdx13Gdk23E",
-		"import": false
+		"name"":" อนิเมะจีน ",
+		"image": "https://animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1wV-Ubgpfhh1NSEbzv-TW0f8mtySldn8T",
+		"import": "false"
 		},{
-		"name": "🐲 ยังไม่จบ",
-		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1C_G6OYg0AUJb-XAI9ptWGyA0YdSueFvZ",
-		"import": false
+		"name":" อนิเมะซับไทย ",
+		"image": "https://animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=1fFDEhyD6ouCa68pi_hCF7bVDsbrAPJRP",
+		"import": "false"
 		},{
-		"name": "🐲 จบแล้ว",
-		"image": "https://i0.wp.com/animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url": "https://drive.google.com/uc?id=1BbZsa_jbU7fNdb5IvUkXvHvTokwc0LGE",
-		"import": false
+		"name":" เดอะมูฟวี่ ",
+		"image": "https://animemoji.tv/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url": "https://drive.google.com/uc?id=19BF7e0YCNqQZql54SEeeXC1SdFFNuofW",
+		"import": false  
 		}]
 	},{
 	"name": "ᵇʸ Oung-Oung",
