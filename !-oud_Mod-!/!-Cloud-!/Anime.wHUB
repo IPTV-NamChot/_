@@ -220,42 +220,6 @@
 		}]
 	}]
 },{
-"name": "ᵇʸ Anime-yuzu[PL]",
-"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-#==ORG : "https://tinyurl.com/4p3dthjx",
-	"groups":
-	[{
-	"name": "🐲 ซับไทย",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=15ayFc_AWb3SNHLUZAu-xMZTta8eAVMne",
-	"import": "false"
-	},{
-	"name": "🐲 พากย์ไทย",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=1RtPxyn4Vta_LLYnS2H8yDgKqjdmUqXG8",
-	"import": "false"
-	},{
-	"name": "🐲 Anime",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=1W1EJ6lhlEr_J4Sowp5Fg_c6lxNqSi-VD",
-	"import": "false"
-	},{
-	"name": "🐲 Action",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=1d7j-Jic5_8q9Qn1ugABV0RzW6CFLh7q_",
-	"import": "false"
-	},{
-	"name": "🐲 Adventure",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=1Wj7m0kLH6uA-XS9N-u44NVLKBkMl4JAd",
-	"import": "false"
-	},{
-	"name": "🐲 เดอะมูฟวี่",
-	"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
-	"url": "https://drive.google.com/uc?id=1VrKqqSij-RXX79PeNu5mM1q6ISA2Yndo",
-	"import": "false"
-	}]
-},{
 "name": "ᵇʸ Anime108",
 "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
 "url": "https://docs.google.com/uc?export=download&id=1PvTXsbz9x1_ySkg-mGnZ6ed1fz6B3HIf",
