@@ -8,6 +8,67 @@
 "groups":
 [{
 
+"name": "Anime-Moji",
+"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"groups":
+	[{
+	"name": "ᵇʸ Anime-Moji[PL]",
+	"image": "https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://tinyurl.com/2rf8rzxe",
+	"import": false
+	},{
+	"name": "ᵇʸ Oung-Oung",
+	"image": "https://drive.google.com/uc?id=1VRRETNXW5e8Rnl1DyuPS_gqAah6_HEiu&export=download",
+	#=ORG : "อุ๋ง อุ๋ง จะดูกับclick2ohm"
+	"groups":
+		[{
+		"name": "🦭All🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii__.w3u",
+		"import": "false"
+		},{
+		"name": "🦭มาใหม่🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะมาใหม่-2023_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭พากย์ไทย🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะพากย์ไทย_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭ซับไทย🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะซับไทย_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭จีน🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_chinaanime_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭ยังไม่จบ🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_ยังไม่จบ_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭จบแล้ว🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_จบแล้ว_.w3u",
+		"import": "false"
+		},{
+		"name": "🦭Movies🐒", 
+		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
+		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_themovie_.w3u",
+		"import": "false"
+		}]
+	}]
+},{
+"name": "ᵇʸ Anime-yuzu[PL]"
+"image": "https://img2.pic.in.th/pic/anime-yuzu.jpg",
+"url": "https://tinyurl.com/4p3dthjx",
+"import": "false"
+},{
 "name": "Anime-Indy",
 "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
 	"groups":
@@ -62,62 +123,6 @@
 	"image":"https://www.i-pic.info/i/61FM901628.png",
 	"url":"https://drive.google.com/uc?id=141DJDvH-K85xBbz24-wrg8z6zq3mXAuc",
 	"import": false
-	}]
-},{
-"name": "Anime-Moji",
-"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-	"groups":
-	[{
-	"name": "ᵇʸ Anime-Moji",
-	"image": "https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-	"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
-	"import": false
-	},{
-	"name": "ᵇʸ Oung-Oung",
-	"image": "https://drive.google.com/uc?id=1VRRETNXW5e8Rnl1DyuPS_gqAah6_HEiu&export=download",
-	#=ORG : "อุ๋ง อุ๋ง จะดูกับclick2ohm"
-	"groups":
-		[{
-		"name": "🦭All🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii__.w3u",
-		"import": "false"
-		},{
-		"name": "🦭มาใหม่🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะมาใหม่-2023_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭พากย์ไทย🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะพากย์ไทย_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭ซับไทย🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_อนิเมะซับไทย_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭จีน🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_chinaanime_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭ยังไม่จบ🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_ยังไม่จบ_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭จบแล้ว🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_จบแล้ว_.w3u",
-		"import": "false"
-		},{
-		"name": "🦭Movies🐒", 
-		"image":"https://mojianime.com/wp-content/uploads/2022/04/moji-e1651359028221.png",
-		"url":"https://raw.githubusercontent.com/provides1/new/refs/heads/main/anime-mojii_themovie_.w3u",
-		"import": "false"
-		}]
 	}]
 },{
 "name": "Anime HD Zero",
