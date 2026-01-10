@@ -8,191 +8,193 @@
 "groups":
 [{
 
-"name": "123-HD.com",
-"author": "อุ๋ง อุ๋ง จะดู",
-"info": "ถ้าคุณรู้สึกเหนื่อยจงเรียนรู้ที่จะพักแต่อย่าล้มเลิก",
-"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"groups":
-[{
 "name": "หนัง",
-"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"info": "วันไหนที่หมดไฟจงนึกถึงวันแรกที่อยากทำ",
+"image": "https://files.catbox.moe/lzt8uy.png",
 "groups":
 	[{
-	"name": "ดูหนังออนไลน์HD",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ดูหนังออนไลน์.w3u",
+	"name": "บ้านจีน_ละครสั้นจีน",
+	"image": "https://xn--82c7abb4jua0l.com/wp-content/uploads/2024/02/logo-fav.png",
+	"url": "https://docs.google.com/uc?id=1ZvuTPRcmU0w5JRZz6u65bAiRy4pPJjb9",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์แนวตั้ง",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1B17HGG2JUD80ALFByt7EAlQKQt23n7_v",
+	"import": "false"
+	},{
+	"name": "หนังสั้น",
+	"image": "https://img2.pic.in.th/pic/icon_shortflim.png",
+	"url": "https://docs.google.com/uc?id=1JskYsfgja8R_QSJvW_ISgZpkJdf8_TMD",
+	"import": "false"
+	},{
+	"name": "หนังใหม่ 2026",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1oDwfxHzlSU9vvR4GXiN8WJ5_M5BryiOE",
+	"import": "false"
+	},{
+	"name": "หนังใหม่ 2025",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1UCIQ2UjDUx9YfGIPXy7R6ddzgon5hVr9",
 	"import": "false"
 	},{
 	"name": "หนังภาคต่อ",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังภาคต่อ.w3u",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1OVyEt2VwKw_qBGFCSMb1dWPx7Y9Q2dJS",
 	"import": "false"
 	},{
-	"name": "หนังใหม่2024",
-	"image": "https://th.bing.com/th/id/OIP.D7c1E2YU5ydTuiauiTue_QHaHa?rs=1&pid=ImgDetMain",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2024.w3u",
+	"name": "ดูหนังออนไลน์ HD",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1DOhpRVCRniapjTSfXayqE5Aw7IJ-Z45w",
 	"import": "false"
 	},{
-	"name": "หนังใหม่2023",
-	"image": "https://png.pngtree.com/png-vector/20220910/ourmid/pngtree-2023-colourful-logo-png-image_6156691.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2023.w3u",
+	"name": "Ezmovie ดูหนังออนไลน์",
+	"image": "https://ezmovie.movie/build/web/ez-movie/img/ez-movie-logo.png",
+	"url": "https://docs.google.com/uc?id=1j1i6z6AefFBDdkAI0bA4UM54haDPaGqg",
 	"import": "false"
 	},{
-	"name": "หนัง2022",
-	"image": "https://th.bing.com/th/id/R.ab0300f29392f0fd2352df4d5b87e183?rik=0sOFmJof9Mx6jw&pid=ImgRaw&r=0",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2022.w3u",
+	"name": "รวมหนัง (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1EaiFTNzg5BsRWPGJ5XhU4v0Pb8R_1xnK",
 	"import": "false"
 	},{
-	"name": "หนัง2021",
-	"image": "https://th.bing.com/th/id/R.eeaabd8a6065d250ad10cbf300319f35?rik=Co4gMpVQ0fEJmA&pid=ImgRaw&r=0",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2021.w3u",
-	"import": "false"
-	},{
-	"name": "หนัง2020",
-	"image": "https://th.bing.com/th/id/R.4cccb8477ad0c313ecb3b5ea8491658d?rik=ES%2b4FZ7hbyGYWA&pid=ImgRaw&r=0",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2020.w3u",
-	"import": "false"
-	},{
-	"name": "หนัง2019",
-	"image": "https://th.bing.com/th/id/R.4c18718b8b96a7cbb32b68b089369d79?rik=mvJR7di%2fdr%2b21w&pid=ImgRaw&r=0",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังใหม่-2019.w3u",
-	"import": "false"
-	},{
-	"name": "หนังชนโรง",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังชนโรง.w3u",
-	"import": "false"
-	},{
-	"name": "หนังNetflix",
-	"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ดูหนัง-netflix.w3u",
-	"import": "false"
-	},{
-	"name": "หนังฝรั่ง",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังฝรั่ง.w3u",
-	"import": "false"
-	},{
-	"name": "หนังไทย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังไทย.w3u",
-	"import": "false"
-	},{
-	"name": "หนังจีน",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังจีน.w3u",
-	"import": "false"
-	},{
-	"name": "หนังญี่ปุ่น",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังญี่ปุ่น.w3u",
-	"import": "false"
-	},{
-	"name": "หนังอินเดีย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังอินเดีย.w3u",
-	"import": "false"
-	},{
-	"name": "หนังเกาหลี",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังเกาหลี.w3u",
-	"import": "false"
-	},{
-	"name": "หนังHBO",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนัง-hbo.w3u",
-	"import": "false"
-	},{
-	"name": "รวมหนังmarvel",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_รวมหนัง-marvel.w3u",
-	"import": "false"
-	},{
-	"name": "หนังซอมบี้",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_หนังซอมบี้.w3u",
-	"import": "false"
-	},{
-	"name": "1970-2021",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/1970-2021.w3u",
+	"name": "หนังใหม่ล่าสุด",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1Nj9A_79b8DUa-dJc2tBGH5O8gAwdiHY_",
 	"import": "false"
 	}]
 },{
 "name": "ซีรี่ย์",
-"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"info": "อย่าหวังอะไรจากสิ่งที่ไม่ได้ลงมือทำ",
+"image": "https://files.catbox.moe/ijei1s.png",
 "groups":
 	[{
-	"name": "ดูซีรี่ย์ออนไลน์",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ดูซีรี่ย์ออนไลน์.w3u",
+	"name": "ซีรี่ย์ใหม่ 2026",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=1a9kL5Amr9ieDAQL3MtZtgyE7RQdz6St7",
 	"import": "false"
 	},{
-	"name": "ซีรี่ย์ใหม่2024",
-	"image": "https://th.bing.com/th/id/OIP.D7c1E2YU5ydTuiauiTue_QHaHa?rs=1&pid=ImgDetMain",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ใหม่-2024.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ใหม่2023",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ใหม่-2023.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ใหม่2022",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ใหม่-2022.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ใหม่2021",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ใหม่-2021.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ใหม่2020",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ใหม่-2020.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์พากย์ไทย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์พากย์ไทย.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ซับไทย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์ซับไทย.w3u",
+	"name": "ซีรี่ย์ใหม่ 2025",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=1xyp56sSjpJ2XVVz6WCR4u9D-Ix8EjHfu",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์จีน",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์จีน.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์เกาหลี",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรี่ย์เกาหลี.w3u",
-	"import": "false"
-	},{
-	"name": "ซีรี่ย์ฝรั่ง",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_series-ฝรั่ง.w3u",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=16IRjqjSAW6ZU-EvgBfHzGBYe7JW6CJ9p",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ไทย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_series-ไทย.w3u",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=1gmmLwi3MWVXLdvdjU1GIHryd7oSS1HjP",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ฝรั่ง",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=1Qz_mOU3fH2NciZlSXCb5Ih1hk8h9RpqA",
 	"import": "false"
 	},{
 	"name": "ซีรี่ย์ญี่ปุ่น",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_series-ญี่ปุ่น.w3u",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=17RjD2CIOnHDc2qg_x5pa0bqW1ngw3VO7",
 	"import": "false"
 	},{
-	"name": "ซีรี่ย์วาย",
-	"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/123-hd_ซีรีย์วาย.w3u",
+	"name": "ซีรี่ย์เกาหลี",
+	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url": "https://docs.google.com/uc?id=1THmdq8ryTDmfqkWoi3EK_zY2rbJwxNQC",
+	"import": "false"
+	},{
+	"name": "รวม2026 (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1YDKZnJEG1yqPa1eso3YJitBJkcHiJWNz",
+	"import": "false"
+	},{
+	"name": "รวม2025 (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1ob2EHPCECQBhiMqgJusnv4AaThv_L82g",
+	"import": "false"
+	},{
+	"name": "รวมดูซีรี่ย์จีน (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1sBo_em0hrPNz5doqnLyS_uIvS9Egs7UV",
+	"import": "false"
+	},{
+	"name": "รวมดูซีรี่ย์ฝรั่ง (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1sloBNVvN7rxNDztaPnhNu8c5FK1Hr-6b",
+	"import": "false"
+	},{
+	"name": "รวมดูซีรี่ย์ญี่ปุ่น (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1CId14vAxx7jRxHwXuMX5pnIAcc23vVF3",
+	"import": "false"
+	},{
+	"name": "รวมดูซีรี่ย์เกาหลี (FlixMono)",
+	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
+	"url": "https://docs.google.com/uc?id=1PhmTC8YITZf6IYpWe1-znc1kem9-wei6",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ใหม่ 2026",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1sJi1slARXYuX0nN2Rbp4ZQXkpjL9kIDa",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ใหม่ 2025",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1r2G910KJSNVVwyRm5OTkboW0WmaEfgXP",
+	"import": "false"
+	},{
+	"name": "ดูซีรี่ย์ออนไลน์",
+	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://docs.google.com/uc?id=1t7O8Q1ARwYin4dG5zw4sV4TdqUQVYuzC",
+	"import": "false"
+	},{
+	"name": "Ezmovie ซีรี่ย์",
+	"image": "https://ezmovie.movie/build/web/ez-movie/img/ez-movie-logo.png",
+	"url": "https://docs.google.com/uc?id=1mPi5EzTwVxQKFYaNdkZW-nWHZefPwWrt",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ปี 2026",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=17YSd3NvDrjviXMv_6dn6gVk8M0Sqn6Zw",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ปี 2025",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1bJe3RBMMYUltR1YJhDERj7Fr9HJNS2_F",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ไทย",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=141KIXAoVUoYIHn3Fn82uhzWgamQ9WlXI",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์จีน",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=19wGhzmJSH6Lj2Xbq6BGxa-fk5E4XYV8-",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ญี่ปุ่น",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1Hoj2onxGHearjaDP9Ynd4pzNRuFuIpDE",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์ฝรั่ง",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1C3uHn1ct5TcPW2UdB8382_Y62-hl4dYc",
+	"import": "false"
+	},{
+	"name": "ซีรี่ย์เกาหลี",
+	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
+	"url": "https://docs.google.com/uc?id=1CrMRDvHt-Q6Tw7DFJeJts13vvIYnrl4A",
+	"import": "false"
+	},{
+	"name": "Series Korea",
+	"image": "https://series-korea.net/wp-content/uploads/2023/09/logo-sk-copy.png",
+	"url": "https://docs.google.com/uc?id=12HT2orsdhEJAyHiNvkvV9xP-SgCqwaQp",
+	"import": "false"
+	},{
+	"name": "buzz22_series",
+	"image": "https://buzz22.com/wp-content/uploads/2025/12/buzz22-logo.webp",
+	"url": "https://docs.google.com/uc?id=1buVsTp8w8-Vfdc71F4RQgFLtVqwKEJ1h",
 	"import": "false"
 	}]
 },{
