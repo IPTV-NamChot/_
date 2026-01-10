@@ -8,25 +8,30 @@
 "groups":
 [{
 
-"name": "ᵇʸ SeriesDay",
-"image": "https://dl.dropboxusercontent.com/scl/fi/j8vcl118ybwf6d5te3v5u/doofree_seriesday2024.png?rlkey=88i1u1emykqoxjvebm2tifu7i&st=p1ype5e0&dl=0",
-"url": "https://dl.dropboxusercontent.com/scl/fi/4j6hq9so4ynrvikj1089p/serie-day_-2024.w3u?rlkey=pal7p7qzpetsx6zfqpjsl0l37&st=ltex4lc9&dl=0",
-"import": "false"
+"name": "ᵇʸ SeriesDay 2025",
+"image": "https://www.dropbox.com/scl/fi/j8vcl118ybwf6d5te3v5u/doofree_seriesday2024.png?rlkey=88i1u1emykqoxjvebm2tifu7i&st=p1ype5e0&dl=1",
+"url": "https://www.dropbox.com/scl/fi/jpek8h2egalrm5w5gg3z2/series-days_-2025.w3u?rlkey=t64736m1wmkufmb6av0obviqa&st=tcuf1rxw&dl=1",
+"import": false
 },{
-"name": "ᵇʸ TVallSeries",
-"image": "https://dl.dropboxusercontent.com/scl/fi/brdn2ub63ybzsduz4qyuy/doofree_tvallseries.png?rlkey=jk4669jtn1zmp7eq5egg5pqhb&st=ppxn2xnj&dl=0",
-"url": "https://dl.dropboxusercontent.com/scl/fi/8loi5jlfmsw6amvr7qn98/tvallseries_.w3u?rlkey=hqvemx5ysss7u5w81dv2zs6co&st=zvoh72g0&dl=0",
-"import": "false"
+"name": "ᵇʸ 123-hd MOVIES",
+"image": "https://www.dropbox.com/scl/fi/1rddjr0eo8v1ah33oxk0o/doofree_movie123HD.png?rlkey=b35at66hlwgckk8anidrfof7g&st=gy4kgbq7&dl=1",
+"url": "https://www.dropbox.com/scl/fi/9dyy9fre6iee4p7g6b7wk/123hd_-2025.w3u?rlkey=8ahxanayzwpfqzh4cqksq7ty5&st=hgejw7xj&dl=1",
+"import": false
 },{
-"name": "ᵇʸ  Series-indy",
-"image": "https://dl.dropboxusercontent.com/scl/fi/5cdvfmgn4467cb5e6ugww/doofree_seriesdindy.png?rlkey=7uxi334oksb16u877mofj33wb&st=nv1d8sin&dl=0",
-"url": "https://dl.dropboxusercontent.com/scl/fi/nx02l4se2279hcxa7opzl/series-indy_.w3u?rlkey=lvo3456d3krtez274bo9fx99l&st=4nyfvwq2&dl=0",
-"import": "false"
+"name": "ᵇʸ Movienewhit",
+"image": "https://www.dropbox.com/scl/fi/zdrspsnl067uc4ekudww6/doofree_movienewhit.png?rlkey=pydr8d97smvc1nth9bcf3ej0m&st=lyzn2pjg&dl=1",
+"url": "https://www.dropbox.com/scl/fi/qusqz26xa6b9lxuojda14/movienewhit_movie-2025.w3u?rlkey=l3sy2tjhawc08r1hzd7t82gbp&st=k8pthevv&dl=1",
+"import": false
 },{
-"name": "ᵇʸ 123-HD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/1rddjr0eo8v1ah33oxk0o/doofree_movie123HD.png?rlkey=b35at66hlwgckk8anidrfof7g&st=gy4kgbq7&dl=0",
-"url": "https://dl.dropboxusercontent.com/scl/fi/vionu46ohy1kgsph773wj/123-hd_-2024.w3u?rlkey=s48qyrtp28pyxn2wnlatkvbb1&st=ys2m5f6h&dl=0",
-"import": "false"
+"name": "ᵇʸ Movie de88",
+"image":  "https://www.dropbox.com/scl/fi/4swkll6jc1msfqe309v19/doofree_DE88.png?rlkey=51j53ax56uz19na66ofct2a7e&st=5r98jkzr&dl=1",
+"url": "https://www.dropbox.com/scl/fi/v8ksq6276a2imo2qkjasf/de88_playlist_2025.w3u?rlkey=6hvnlw6k10omx7kc1xcfmm5at&st=k7bbv5la&dl=1",
+"import": false
+},{
+"name": "ᵇʸ 123-moviehd",
+"image":  "https://www.dropbox.com/scl/fi/y499w0v8nvtyq94p7f3bg/doofree_123HDFREE.png?rlkey=xtk8pag2q815xnx88vywvb8e4&st=1q2tyfx1&dl=1",
+"url": "https://www.dropbox.com/scl/fi/drvfyfrr6asuglexlbzdh/123-moviehd_movie-2025.w3u?rlkey=xgu3c4i9fmn92g6651x7h5j6h&st=86xorvll&dl=1",
+"import": false
 }]
 
 }
