@@ -1,0 +1,32 @@
+{
+"name": "🎬บ้านเรืองเดช🎬",
+"author": "GitHubᵇʸ IPTV-NamChot",
+"image": "https://drive.google.com/uc?id=1-qjirKMLf98_kdfcBc1Q_KoHWpSZWFcb&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!_Baan@RD.wHUB",
+#==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-! :: "https://drive.google.com/uc?id=1Qg1NZFTu6VG__eTQVYP8DfPH-ohSInNQ" 
+"parental" : "true",
+"groups":
+[{
+
+"name": "🎬Live IPTV",
+"image": "https://drive.google.com/uc?id=1tGWICVxq2AnVWWs4uEDQx9ZnwucHalQ-&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Live-!/!_Live.wHUB",
+"import": "false"
+},{
+"name": "🎬Cloud IPTV",
+"image": "https://drive.google.com/uc?id=1Thir26O6krRijHxAPElrEKZoVd8v8MrF&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-Cloud-!/!_Cloud.wHUB",
+"import": "false"
+},{
+"name":"🎬OnWeb IPTV",
+"image":"https://drive.google.com/uc?id=1tP1LjPmJZARdyqqTCEyTLbgpZDpAnGVn&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-OnWeb-!/!_OnWeb.wHUB",
+"import": "false"
+},{
+"name":"🎬เก็บตกAll IPTV",
+"image": "https://drive.google.com/uc?id=1tb62EjE9GyHCfmSacsBUEZCRmfomG5XC&export=download",
+"url": "https://raw.githubusercontent.com/IPTV-NamChot/_/refs/heads/!-GitHub-!/!-oud_Mod-!/!-All_IPTV-!/!_All_IPTV.wHUB",
+"import": "false"
+}]
+
+}
