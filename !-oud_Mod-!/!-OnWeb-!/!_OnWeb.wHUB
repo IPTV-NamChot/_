@@ -22,6 +22,11 @@
 	"url" : "https://320hdr.com/",
 	"referer" : "https://320hdr.com/","embed" : "true"
 	},{
+	"name" : "Serie-Day",
+	"image" : "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url" : "https://www.series-days.com/",
+	"referer" : "https://www.series-days.com/","embed" : "true"
+	},{
 	"name":"Series-indy",
 	"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
 	"url":"https://series-indy.com/",
