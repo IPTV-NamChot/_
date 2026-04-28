@@ -3,199 +3,246 @@
 "author": "Oung-Oung.wHUBᵇʸ IPTV-NamChot",
 "image": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/อุ๋ง.jpeg",
 "url": "https://raw.githubusercontent.com/IPTV-NamChot/_/!-GitHub-!/!-oud_Mod-!/!-Cloud-!/Oung-Oung.wHUB", 
-#=="url": "https://drive.google.com/uc?id=1SyHbT8US0FnXCSOyxVT4Eq4QKL2NESZe", 
+#=="url": "https://drive.google.com/uc?id=1SyHbT8US0FnXCSOyxVT4Eq4QKL2NESZe, 
 #==G:\My Drive\IPTV-NamChot\!-GitHub-!\!-oud_Mod-!\!-Cloud-! :: "https://drive.google.com/uc?id=1SyHbT8US0FnXCSOyxVT4Eq4QKL2NESZe" 
 "groups":
 [{
 
 "name": "หนัง",
+"author": "อุ๋ง อุ๋ง",
 "image": "https://files.catbox.moe/lzt8uy.png",
 "groups":
 	[{
 	"name": "บ้านจีน_ละครสั้นจีน",
 	"image": "https://xn--82c7abb4jua0l.com/wp-content/uploads/2024/02/logo-fav.png",
-	"url": "https://docs.google.com/uc?id=1ZvuTPRcmU0w5JRZz6u65bAiRy4pPJjb9",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1ZvuTPRcmU0w5JRZz6u65bAiRy4pPJjb9"
 	},{
 	"name": "ซีรี่ย์แนวตั้ง",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1B17HGG2JUD80ALFByt7EAlQKQt23n7_v",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1B17HGG2JUD80ALFByt7EAlQKQt23n7_v"
 	},{
 	"name": "หนังสั้น",
 	"image": "https://img2.pic.in.th/pic/icon_shortflim.png",
-	"url": "https://docs.google.com/uc?id=1JskYsfgja8R_QSJvW_ISgZpkJdf8_TMD",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1JskYsfgja8R_QSJvW_ISgZpkJdf8_TMD"
 	},{
 	"name": "หนังใหม่ 2026",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1oDwfxHzlSU9vvR4GXiN8WJ5_M5BryiOE",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1oDwfxHzlSU9vvR4GXiN8WJ5_M5BryiOE"
 	},{
 	"name": "หนังใหม่ 2025",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1UCIQ2UjDUx9YfGIPXy7R6ddzgon5hVr9",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1UCIQ2UjDUx9YfGIPXy7R6ddzgon5hVr9"
 	},{
 	"name": "หนังภาคต่อ",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1OVyEt2VwKw_qBGFCSMb1dWPx7Y9Q2dJS",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1OVyEt2VwKw_qBGFCSMb1dWPx7Y9Q2dJS"
 	},{
 	"name": "ดูหนังออนไลน์ HD",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1DOhpRVCRniapjTSfXayqE5Aw7IJ-Z45w",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1DOhpRVCRniapjTSfXayqE5Aw7IJ-Z45w"
 	},{
 	"name": "Ezmovie ดูหนังออนไลน์",
 	"image": "https://ezmovie.movie/build/web/ez-movie/img/ez-movie-logo.png",
-	"url": "https://docs.google.com/uc?id=1j1i6z6AefFBDdkAI0bA4UM54haDPaGqg",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1j1i6z6AefFBDdkAI0bA4UM54haDPaGqg"
 	},{
 	"name": "รวมหนัง (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1EaiFTNzg5BsRWPGJ5XhU4v0Pb8R_1xnK",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1EaiFTNzg5BsRWPGJ5XhU4v0Pb8R_1xnK"
 	},{
 	"name": "หนังใหม่ล่าสุด",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1Nj9A_79b8DUa-dJc2tBGH5O8gAwdiHY_",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1Nj9A_79b8DUa-dJc2tBGH5O8gAwdiHY_"
 	}]
 },{
 "name": "ซีรี่ย์",
+"author": "อุ๋ง อุ๋ง",
 "image": "https://files.catbox.moe/ijei1s.png",
-"groups":
+"groups": 
 	[{
 	"name": "ซีรี่ย์ใหม่ 2026",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=1a9kL5Amr9ieDAQL3MtZtgyE7RQdz6St7",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1a9kL5Amr9ieDAQL3MtZtgyE7RQdz6St7"
 	},{
 	"name": "ซีรี่ย์ใหม่ 2025",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=1xyp56sSjpJ2XVVz6WCR4u9D-Ix8EjHfu",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1xyp56sSjpJ2XVVz6WCR4u9D-Ix8EjHfu"
 	},{
 	"name": "ซีรี่ย์จีน",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=16IRjqjSAW6ZU-EvgBfHzGBYe7JW6CJ9p",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=16IRjqjSAW6ZU-EvgBfHzGBYe7JW6CJ9p"
 	},{
 	"name": "ซีรี่ย์ไทย",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=1gmmLwi3MWVXLdvdjU1GIHryd7oSS1HjP",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1gmmLwi3MWVXLdvdjU1GIHryd7oSS1HjP"
 	},{
 	"name": "ซีรี่ย์ฝรั่ง",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=1Qz_mOU3fH2NciZlSXCb5Ih1hk8h9RpqA",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1Qz_mOU3fH2NciZlSXCb5Ih1hk8h9RpqA"
 	},{
 	"name": "ซีรี่ย์ญี่ปุ่น",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=17RjD2CIOnHDc2qg_x5pa0bqW1ngw3VO7",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=17RjD2CIOnHDc2qg_x5pa0bqW1ngw3VO7"
 	},{
 	"name": "ซีรี่ย์เกาหลี",
 	"image": "https://www.series-days.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url": "https://docs.google.com/uc?id=1THmdq8ryTDmfqkWoi3EK_zY2rbJwxNQC",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1THmdq8ryTDmfqkWoi3EK_zY2rbJwxNQC"
 	},{
 	"name": "รวม2026 (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1YDKZnJEG1yqPa1eso3YJitBJkcHiJWNz",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1YDKZnJEG1yqPa1eso3YJitBJkcHiJWNz"
 	},{
 	"name": "รวม2025 (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1ob2EHPCECQBhiMqgJusnv4AaThv_L82g",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1ob2EHPCECQBhiMqgJusnv4AaThv_L82g"
 	},{
 	"name": "รวมดูซีรี่ย์จีน (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1sBo_em0hrPNz5doqnLyS_uIvS9Egs7UV",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1sBo_em0hrPNz5doqnLyS_uIvS9Egs7UV"
 	},{
 	"name": "รวมดูซีรี่ย์ฝรั่ง (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1sloBNVvN7rxNDztaPnhNu8c5FK1Hr-6b",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1sloBNVvN7rxNDztaPnhNu8c5FK1Hr-6b"
 	},{
 	"name": "รวมดูซีรี่ย์ญี่ปุ่น (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1CId14vAxx7jRxHwXuMX5pnIAcc23vVF3",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1CId14vAxx7jRxHwXuMX5pnIAcc23vVF3"
 	},{
 	"name": "รวมดูซีรี่ย์เกาหลี (FlixMono)",
 	"image": "https://flixmono.com/wp-content/uploads/2025/05/cropped-F.png",
-	"url": "https://docs.google.com/uc?id=1PhmTC8YITZf6IYpWe1-znc1kem9-wei6",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1PhmTC8YITZf6IYpWe1-znc1kem9-wei6"
 	},{
 	"name": "ซีรี่ย์ใหม่ 2026",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1sJi1slARXYuX0nN2Rbp4ZQXkpjL9kIDa",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1sJi1slARXYuX0nN2Rbp4ZQXkpjL9kIDa"
 	},{
 	"name": "ซีรี่ย์ใหม่ 2025",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1r2G910KJSNVVwyRm5OTkboW0WmaEfgXP",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1r2G910KJSNVVwyRm5OTkboW0WmaEfgXP"
 	},{
 	"name": "ดูซีรี่ย์ออนไลน์",
 	"image": "https://www.123hdtv.com/wp-content/uploads/2019/10/testa7.png",
-	"url": "https://docs.google.com/uc?id=1t7O8Q1ARwYin4dG5zw4sV4TdqUQVYuzC",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1t7O8Q1ARwYin4dG5zw4sV4TdqUQVYuzC"
 	},{
 	"name": "Ezmovie ซีรี่ย์",
 	"image": "https://ezmovie.movie/build/web/ez-movie/img/ez-movie-logo.png",
-	"url": "https://docs.google.com/uc?id=1mPi5EzTwVxQKFYaNdkZW-nWHZefPwWrt",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1mPi5EzTwVxQKFYaNdkZW-nWHZefPwWrt"
 	},{
 	"name": "ซีรี่ย์ปี 2026",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=17YSd3NvDrjviXMv_6dn6gVk8M0Sqn6Zw",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=17YSd3NvDrjviXMv_6dn6gVk8M0Sqn6Zw"
 	},{
 	"name": "ซีรี่ย์ปี 2025",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1bJe3RBMMYUltR1YJhDERj7Fr9HJNS2_F",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1bJe3RBMMYUltR1YJhDERj7Fr9HJNS2_F"
 	},{
 	"name": "ซีรี่ย์ไทย",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=141KIXAoVUoYIHn3Fn82uhzWgamQ9WlXI",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=141KIXAoVUoYIHn3Fn82uhzWgamQ9WlXI"
 	},{
 	"name": "ซีรี่ย์จีน",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=19wGhzmJSH6Lj2Xbq6BGxa-fk5E4XYV8-",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=19wGhzmJSH6Lj2Xbq6BGxa-fk5E4XYV8-"
 	},{
 	"name": "ซีรี่ย์ญี่ปุ่น",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1Hoj2onxGHearjaDP9Ynd4pzNRuFuIpDE",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1Hoj2onxGHearjaDP9Ynd4pzNRuFuIpDE"
 	},{
 	"name": "ซีรี่ย์ฝรั่ง",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1C3uHn1ct5TcPW2UdB8382_Y62-hl4dYc",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1C3uHn1ct5TcPW2UdB8382_Y62-hl4dYc"
 	},{
 	"name": "ซีรี่ย์เกาหลี",
 	"image": "https://www.baan-series.org/wp-content/uploads/2023/11/cropped-baan-series.png",
-	"url": "https://docs.google.com/uc?id=1CrMRDvHt-Q6Tw7DFJeJts13vvIYnrl4A",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1CrMRDvHt-Q6Tw7DFJeJts13vvIYnrl4A"
 	},{
 	"name": "Series Korea",
 	"image": "https://series-korea.net/wp-content/uploads/2023/09/logo-sk-copy.png",
-	"url": "https://docs.google.com/uc?id=12HT2orsdhEJAyHiNvkvV9xP-SgCqwaQp",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=12HT2orsdhEJAyHiNvkvV9xP-SgCqwaQp"
 	},{
 	"name": "buzz22_series",
 	"image": "https://buzz22.com/wp-content/uploads/2025/12/buzz22-logo.webp",
-	"url": "https://docs.google.com/uc?id=1buVsTp8w8-Vfdc71F4RQgFLtVqwKEJ1h",
-	"import": "false"
+	"url": "https://docs.google.com/uc?id=1buVsTp8w8-Vfdc71F4RQgFLtVqwKEJ1h"
+	}]
+},{
+"name": "ละคร - ข่าว - อื่นๆ",
+"author": "อุ๋ง อุ๋ง",
+"image": "https://files.catbox.moe/kmzwva.png",
+"groups": 
+	[{
+	"name": "ละคร",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1pbrRbPrK_4H_Q2kGBinfzI6QPrZ1pDfG"
+	},{
+	"name": "ละครเก่า",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1LjoH7RzQz7O75fDaWllqYtc-V3jsIoJp"
+	},{
+	"name": "ซิทคอม",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1beX4B1FuGiBOx5ceiNkXmYm2oNlzf5EN"
+	},{
+	"name": "วาไรตี้ เกมโชว์",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1wJz8slAM0khF1sKxBkqBY4Me-eHWa2Fd"
+	},{
+	"name": "เรียลลิตี้",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1y-CReU4upuZfCe8iSoOxgRsYRl3vh96d"
+	},{
+	"name": "สาระความรู้",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1FCxrRMpmlzvHGfoe1qeN08EbuEfLnygj"
+	},{
+	"name": "ข่าวและเหตุการณ์",
+	"image": "https://www.watchlakorn.net/images/video_logo.png",
+	"url": "https://docs.google.com/uc?id=1ameUftqORdhv5yPQC5zhwtPDAcaP_Kis"
+	}]
+},{
+"name": "การ์ตูน",
+"author": "อุ๋ง อุ๋ง",
+"image": "https://files.catbox.moe/13x3et.gif",
+"imageScale":	"centerCrop",
+"groups": 
+	[{
+	"name": "Cartoon Anime-HD-Zeroo",
+	"image": "https://i.pinimg.com/originals/79/25/ac/7925ac8f53eec7b0b016dbb23106bd78.png",
+	"url": "https://docs.google.com/uc?id=1hr3y5phg6fcx_oEf2oolEj0c-Kw3uC8x"
+	},{
+	"name": "Anime-indy",
+	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png",
+	"url": "https://docs.google.com/uc?id=1H--6KYH87vsGITf0b3y2dhPD6PZdruTc"
+	},{
+	"name": "อนิเมะพากย์ไทย",
+	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png",
+	"url": "https://docs.google.com/uc?id=1dpE5V1BYFvC8oBbFfzRy2h_G7Ie2bsOP"
+	},{
+	"name": "อนิเมะซับไทย",
+	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png",
+	"url": "https://docs.google.com/uc?id=1KL5nt7Xafs7BSj5ZF-H_Wg-C37zY0i1W"
+	},{
+	"name": "เดอะมูฟวี่",
+	"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png",
+	"url": "https://docs.google.com/uc?id=1XR54MVh3jL4w_mo5C-1MIRA5f44TJlE9"
+	},{
+	"name": "Anime-Good",
+	"image": "https://anime-good.com/wp-content/uploads/2025/11/cropped-cropped-animegood-logo.png",
+	"url": "https://docs.google.com/uc?id=1NI1YUM7lQd3qXutlex3_s5LTNmlXnnbC"
+	},{
+	"name": "อนิเมะพากย์ไทย",
+	"image": "https://anime-good.com/wp-content/uploads/2025/11/cropped-cropped-animegood-logo.png",
+	"url": "https://docs.google.com/uc?id=1lvhfywVr7JOQsdofxKhmgFAxcmCAU9O5"
+	},{
+	"name": "อนิเมะซับไทย",
+	"image": "https://anime-good.com/wp-content/uploads/2025/11/cropped-cropped-animegood-logo.png",
+	"url": "https://docs.google.com/uc?id=1TqKobQq4dmFJ23hVUUnO_C371mEa3DY1"
+	},{
+	"name": "เดอะมูฟวี่",
+	"image": "https://anime-good.com/wp-content/uploads/2025/11/cropped-cropped-animegood-logo.png",
+	"url": "https://docs.google.com/uc?id=14_kgkAVvhzaz-LV2Gjavx0mjbFGpmT8r"
+	},{
+	"name": "Ezmovie อนิเมะ-anime",
+	"image": "https://ezmovie.movie/build/web/ez-movie/img/ez-movie-logo.png",
+	"url": "https://docs.google.com/uc?id=1h0rh8MYu6mwi6mpD3NFEWIR2dB10Y5Cd"
 	}]
 }]
 
